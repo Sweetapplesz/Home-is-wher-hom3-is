@@ -3498,3 +3498,1009 @@ Make sure 'SideScrollerCharacter_C' has been compiled for  Set Hookdone
 [2019.01.26-19.33.35:509][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
 [2019.01.26-19.33.39:244][398]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerCharacter_Auto532E8AFFA4CA6098B21164DBB76D75E15.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto5.uasset'
 [2019.01.26-19.33.39:262][398]LogFileHelpers: Auto-saving content packages took 3.779
+[2019.01.26-19.35.40:314][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.35.40:405][242]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/HookPoint.HookPoint
+[2019.01.26-19.35.47:714][779]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.26-19.35.50:259][971]BlueprintLog: New page: Compile HookPoint
+[2019.01.26-19.36.09:724][ 34]LogSlate: Window 'Message' being destroyed
+[2019.01.26-19.36.12:439][338]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.36.12:469][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.36.12:469][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.36.12:469][338]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:36:12 AM)
+[2019.01.26-19.36.12:469][338]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.36.12:495][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025730s)
+[2019.01.26-19.36.12:496][338]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.36.12:497][338]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2019.01.26-19.36.12:497][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.027117s)
+[2019.01.26-19.36.12:649][338]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.36.12:672][338]LogInit: FAudioDevice initialized.
+[2019.01.26-19.36.12:714][338]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.36.12:717][338]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.36.12
+[2019.01.26-19.36.12:718][338]LogWorld: Bringing up level for play took: 0.003300
+[2019.01.26-19.36.12:732][338]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.282
+[2019.01.26-19.36.12:732][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.36.18:689][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.36.18:690][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.36.18:734][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.36.18:734][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.36.18:802][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.36.18:828][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2019.01.26-19.36.19:882][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.36.20:949][295]LogEditorActor: Deleted Actor: HookPoint_C
+[2019.01.26-19.36.20:950][295]LogEditorActor: Deleted Actor: HookPoint_C
+[2019.01.26-19.36.20:951][295]LogEditorActor: Deleted Actor: HookPoint_C
+[2019.01.26-19.36.21:021][295]LogEditorActor: Deleted 3 Actors (0.085 secs)
+[2019.01.26-19.36.22:075][421]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.36.22:102][421]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.36.22:102][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.36.22:102][421]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:36:22 AM)
+[2019.01.26-19.36.22:102][421]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.36.22:125][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022290s)
+[2019.01.26-19.36.22:126][421]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.36.22:126][421]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2019.01.26-19.36.22:126][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023431s)
+[2019.01.26-19.36.22:205][421]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.36.22:231][421]LogInit: FAudioDevice initialized.
+[2019.01.26-19.36.22:275][421]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.36.22:278][421]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.36.22
+[2019.01.26-19.36.22:279][421]LogWorld: Bringing up level for play took: 0.002641
+[2019.01.26-19.36.22:293][421]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.157
+[2019.01.26-19.36.22:293][421]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.36.26:875][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.36.26:875][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.36.26:920][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.36.26:920][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.36.26:992][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.36.27:012][969]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2019.01.26-19.36.27:799][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.36.32:223][444]Cmd: TRANSACTION UNDO
+[2019.01.26-19.36.32:223][444]LogEditorTransaction: Undo Delete selection
+[2019.01.26-19.36.32:469][464]Cmd: TRANSACTION UNDO
+[2019.01.26-19.36.32:469][464]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.26-19.36.32:694][479]Cmd: TRANSACTION UNDO
+[2019.01.26-19.36.32:694][479]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.26-19.36.33:697][598]Cmd: TRANSACTION REDO
+[2019.01.26-19.36.33:697][598]LogEditorTransaction: Redo Clicking on Actors
+[2019.01.26-19.36.33:876][615]Cmd: TRANSACTION REDO
+[2019.01.26-19.36.33:876][615]LogEditorTransaction: Redo Clicking on Actors
+[2019.01.26-19.36.34:056][634]Cmd: TRANSACTION REDO
+[2019.01.26-19.36.34:056][634]LogEditorTransaction: Redo Delete selection
+[2019.01.26-19.36.45:982][381]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.36.49:504][563]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.36.49:596][563]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.36.49:596][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.36.49:596][563]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:36:49 AM)
+[2019.01.26-19.36.49:596][563]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.36.49:617][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021642s)
+[2019.01.26-19.36.49:618][563]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.36.49:618][563]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2019.01.26-19.36.49:618][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.022748s)
+[2019.01.26-19.36.49:738][563]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.36.49:761][563]LogInit: FAudioDevice initialized.
+[2019.01.26-19.36.49:799][563]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.36.49:802][563]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.36.49
+[2019.01.26-19.36.49:803][563]LogWorld: Bringing up level for play took: 0.002585
+[2019.01.26-19.36.49:817][563]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.633
+[2019.01.26-19.36.49:817][563]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.36.52:472][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.36.52:473][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.36.52:518][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.36.52:518][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.36.52:586][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.36.52:607][880]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2019.01.26-19.36.53:543][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.36.53:666][  5]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.36.53:694][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.36.53:694][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.36.53:694][  5]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:36:53 AM)
+[2019.01.26-19.36.53:694][  5]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.36.53:715][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020671s)
+[2019.01.26-19.36.53:716][  5]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.36.53:716][  5]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2019.01.26-19.36.53:716][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.021846s)
+[2019.01.26-19.36.53:807][  5]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.36.53:831][  5]LogInit: FAudioDevice initialized.
+[2019.01.26-19.36.53:867][  5]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.36.53:871][  5]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.36.53
+[2019.01.26-19.36.53:871][  5]LogWorld: Bringing up level for play took: 0.002841
+[2019.01.26-19.36.53:884][  5]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.566
+[2019.01.26-19.36.53:884][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.37.04:550][282]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.37.04:550][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.37.04:600][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.37.04:600][282]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.37.04:668][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.37.04:690][283]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2019.01.26-19.37.07:132][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.37.12:692][829]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.37.14:818][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge4)
+[2019.01.26-19.37.15:009][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.37.15:085][998]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.37.15:127][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.37.15:127][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.37.15:127][998]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:37:15 AM)
+[2019.01.26-19.37.15:128][998]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.37.15:151][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023213s)
+[2019.01.26-19.37.15:152][998]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.37.15:152][998]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2019.01.26-19.37.15:152][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024387s)
+[2019.01.26-19.37.15:282][998]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.37.15:305][998]LogInit: FAudioDevice initialized.
+[2019.01.26-19.37.15:345][998]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.37.15:347][998]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.37.15
+[2019.01.26-19.37.15:347][998]LogWorld: Bringing up level for play took: 0.002587
+[2019.01.26-19.37.15:361][998]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.912
+[2019.01.26-19.37.15:361][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.37.17:623][259]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.37.17:624][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.37.17:669][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.37.17:670][259]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.37.17:740][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.37.17:762][260]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2019.01.26-19.37.18:254][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.37.19:258][370]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.26-19.37.19:786][404]LogEditorTransaction: Undo Break Pin Links
+[2019.01.26-19.37.20:385][449]LogEditorTransaction: Undo Delete selection
+[2019.01.26-19.37.24:279][712]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.37.25:432][741]LogRenderer: Reallocating scene render targets to support 1236x696 Format 10 NumSamples 1 (Frame:17788).
+[2019.01.26-19.37.44:451][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.38.04:471][352]LogRenderer: Reallocating scene render targets to support 1400x696 Format 10 NumSamples 1 (Frame:19240).
+[2019.01.26-19.39.52:843][133]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.39.52:953][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.39.52:953][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.39.52:953][133]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:39:52 AM)
+[2019.01.26-19.39.52:953][133]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.39.52:976][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023110s)
+[2019.01.26-19.39.52:977][133]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.39.52:977][133]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2019.01.26-19.39.52:977][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024388s)
+[2019.01.26-19.39.53:134][133]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.39.53:158][133]LogInit: FAudioDevice initialized.
+[2019.01.26-19.39.53:197][133]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.39.53:200][133]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.39.53
+[2019.01.26-19.39.53:201][133]LogWorld: Bringing up level for play took: 0.003099
+[2019.01.26-19.39.53:215][133]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.764
+[2019.01.26-19.39.53:215][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.40.09:262][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.40.09:263][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.40.09:364][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.40.09:364][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.40.09:433][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.40.09:770][851]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2019.01.26-19.40.10:345][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.40.32:514][310]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.40.32:535][310]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.40.32:535][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.40.32:535][310]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:40:32 AM)
+[2019.01.26-19.40.32:535][310]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.40.32:559][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023735s)
+[2019.01.26-19.40.32:560][310]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.40.32:560][310]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2019.01.26-19.40.32:560][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.025091s)
+[2019.01.26-19.40.32:643][310]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.40.32:668][310]LogInit: FAudioDevice initialized.
+[2019.01.26-19.40.32:759][310]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.40.32:763][310]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.40.32
+[2019.01.26-19.40.32:764][310]LogWorld: Bringing up level for play took: 0.003133
+[2019.01.26-19.40.32:778][310]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.326
+[2019.01.26-19.40.32:778][310]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.40.57:479][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.40.57:479][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.40.57:583][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.40.57:583][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.40.57:661][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.40.57:986][952]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2019.01.26-19.40.59:547][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.43.20:638][155]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.43.31:755][912]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.43.34:635][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-19.43.37:228][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.43.37:340][429]LogRenderer: Reallocating scene render targets to support 1468x696 Format 10 NumSamples 1 (Frame:234651).
+[2019.01.26-19.43.38:291][535]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.43.38:331][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.43.38:331][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.43.38:331][535]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:43:38 AM)
+[2019.01.26-19.43.38:331][535]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.43.38:355][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023897s)
+[2019.01.26-19.43.38:356][535]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.43.38:356][535]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2019.01.26-19.43.38:356][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.025102s)
+[2019.01.26-19.43.38:540][535]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.43.38:563][535]LogInit: FAudioDevice initialized.
+[2019.01.26-19.43.38:602][535]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.43.38:605][535]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.43.38
+[2019.01.26-19.43.38:605][535]LogWorld: Bringing up level for play took: 0.003062
+[2019.01.26-19.43.38:619][535]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.167
+[2019.01.26-19.43.38:620][535]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.43.40:894][805]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.43.40:895][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.43.40:946][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.43.40:946][805]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.43.41:017][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.43.41:047][806]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2019.01.26-19.43.41:775][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.43.42:630][912]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.26-19.43.42:885][927]LogEditorTransaction: Undo Change Enum Pin Value
+[2019.01.26-19.43.43:091][933]LogEditorTransaction: Undo Break Pin Links
+[2019.01.26-19.43.43:253][938]LogEditorTransaction: Undo Break Pin Links
+[2019.01.26-19.43.43:452][946]LogEditorTransaction: Undo Change Number Pin Value
+[2019.01.26-19.43.43:669][955]LogEditorTransaction: Undo Move Nodes
+[2019.01.26-19.43.43:923][967]LogEditorTransaction: Undo Move Node
+[2019.01.26-19.43.44:584][ 11]LogEditorTransaction: Undo Move Node
+[2019.01.26-19.43.45:228][ 53]LogEditorTransaction: Undo Move Node
+[2019.01.26-19.45.19:799][ 70]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.45.22:674][181]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.45.22:759][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.45.22:759][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.45.22:759][181]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:45:22 AM)
+[2019.01.26-19.45.22:759][181]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.45.22:784][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024608s)
+[2019.01.26-19.45.22:785][181]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.45.22:785][181]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2019.01.26-19.45.22:785][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.025905s)
+[2019.01.26-19.45.22:972][181]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.45.22:995][181]LogInit: FAudioDevice initialized.
+[2019.01.26-19.45.23:037][181]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.45.23:040][181]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.45.23
+[2019.01.26-19.45.23:041][181]LogWorld: Bringing up level for play took: 0.003281
+[2019.01.26-19.45.23:054][181]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.601
+[2019.01.26-19.45.23:055][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.45.30:448][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.45.30:448][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.45.30:547][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.45.30:547][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.45.30:620][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.45.30:647][958]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2019.01.26-19.45.32:593][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.46.07:079][382]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.46.20:745][261]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.46.23:564][444]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.46.23:647][444]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.46.23:647][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.46.23:647][444]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:46:23 AM)
+[2019.01.26-19.46.23:647][444]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.46.23:670][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022705s)
+[2019.01.26-19.46.23:671][444]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.46.23:671][444]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2019.01.26-19.46.23:672][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023948s)
+[2019.01.26-19.46.23:812][444]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.46.23:836][444]LogInit: FAudioDevice initialized.
+[2019.01.26-19.46.23:871][444]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.46.23:874][444]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.46.23
+[2019.01.26-19.46.23:875][444]LogWorld: Bringing up level for play took: 0.003343
+[2019.01.26-19.46.23:888][444]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.565
+[2019.01.26-19.46.23:889][444]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.46.26:476][752]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.46.26:476][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.46.26:520][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.46.26:520][752]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.46.26:595][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.46.26:622][753]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2019.01.26-19.46.27:136][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.46.33:575][136]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.46.59:855][789]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.47.02:514][983]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.47.02:598][983]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.47.02:598][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.47.02:598][983]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:47:02 AM)
+[2019.01.26-19.47.02:598][983]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.47.02:620][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021893s)
+[2019.01.26-19.47.02:621][983]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.47.02:622][983]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2019.01.26-19.47.02:622][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023132s)
+[2019.01.26-19.47.02:770][983]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.47.02:792][983]LogInit: FAudioDevice initialized.
+[2019.01.26-19.47.02:825][983]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.47.02:828][983]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.47.02
+[2019.01.26-19.47.02:829][983]LogWorld: Bringing up level for play took: 0.002536
+[2019.01.26-19.47.02:842][983]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.389
+[2019.01.26-19.47.02:843][983]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.47.03:395][ 47]LogBlueprintUserMessages: [SideScrollerCharacter_78] Hello
+[2019.01.26-19.47.03:836][ 99]LogBlueprintUserMessages: [SideScrollerCharacter_78] Hello
+[2019.01.26-19.47.04:670][199]LogBlueprintUserMessages: [SideScrollerCharacter_78] Hello
+[2019.01.26-19.47.05:403][287]LogBlueprintUserMessages: [SideScrollerCharacter_78] Hello
+[2019.01.26-19.47.05:920][349]LogBlueprintUserMessages: [SideScrollerCharacter_78] Hello
+[2019.01.26-19.47.06:529][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.47.06:529][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.47.06:575][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.47.06:575][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.47.06:652][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.47.06:679][423]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2019.01.26-19.47.07:602][507]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.47.18:967][162]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.47.21:801][375]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.47.21:884][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.47.21:884][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.47.21:884][375]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:47:21 AM)
+[2019.01.26-19.47.21:884][375]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.47.21:905][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020913s)
+[2019.01.26-19.47.21:906][375]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.47.21:906][375]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2019.01.26-19.47.21:906][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.022089s)
+[2019.01.26-19.47.22:037][375]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.47.22:061][375]LogInit: FAudioDevice initialized.
+[2019.01.26-19.47.22:098][375]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.47.22:101][375]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.47.22
+[2019.01.26-19.47.22:102][375]LogWorld: Bringing up level for play took: 0.002778
+[2019.01.26-19.47.22:116][375]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.337
+[2019.01.26-19.47.22:116][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.47.28:329][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.47.28:329][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.47.28:373][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.47.28:374][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.47.28:454][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.47.28:482][110]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2019.01.26-19.47.29:037][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.47.32:221][322]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.47.34:768][471]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.47.34:849][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.47.34:849][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.47.34:849][471]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:47:34 AM)
+[2019.01.26-19.47.34:849][471]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.47.34:871][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021879s)
+[2019.01.26-19.47.34:872][471]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.47.34:872][471]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2019.01.26-19.47.34:872][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023058s)
+[2019.01.26-19.47.35:012][471]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.47.35:033][471]LogInit: FAudioDevice initialized.
+[2019.01.26-19.47.35:070][471]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.47.35:074][471]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.47.35
+[2019.01.26-19.47.35:074][471]LogWorld: Bringing up level for play took: 0.002887
+[2019.01.26-19.47.35:087][471]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.634
+[2019.01.26-19.47.35:087][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.47.45:991][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.47.45:992][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.47.46:040][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.47.46:040][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.47.46:113][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.47.46:142][778]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2019.01.26-19.47.46:877][815]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.50.35:426][369]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.50.38:684][570]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.50.38:769][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.50.38:769][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.50.38:769][570]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:50:38 AM)
+[2019.01.26-19.50.38:769][570]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.50.38:792][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022261s)
+[2019.01.26-19.50.38:793][570]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.50.38:793][570]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2019.01.26-19.50.38:793][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023542s)
+[2019.01.26-19.50.38:951][570]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.50.38:976][570]LogInit: FAudioDevice initialized.
+[2019.01.26-19.50.39:012][570]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.50.39:016][570]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.50.39
+[2019.01.26-19.50.39:016][570]LogWorld: Bringing up level for play took: 0.003011
+[2019.01.26-19.50.39:030][570]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.576
+[2019.01.26-19.50.39:031][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.51.01:672][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.51.01:673][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.51.01:720][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.51.01:720][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.51.01:795][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.51.01:825][285]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2019.01.26-19.51.05:912][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.51.08:222][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.51.15:574][856]Cmd: SELECT NONE
+[2019.01.26-19.51.16:233][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.51.19:263][268]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.26-19.51.21:073][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.51.24:047][631]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.51.33:345][245]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.26-19.51.36:715][460]BlueprintLog: New page: Compile HookPoint
+[2019.01.26-19.52.31:315][852]LogSlate: Window 'New Channel' being destroyed
+[2019.01.26-19.52.33:320][ 34]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.26-19.52.33:326][ 34]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.26-19.52.37:512][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.52.39:120][482]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerExampleMap_Auto6AC89EAB74144DA33E0122AB5B3FA4256.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto6.umap'
+[2019.01.26-19.52.39:144][482]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 1.597
+[2019.01.26-19.52.39:144][482]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.597
+[2019.01.26-19.52.39:148][482]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2019.01.26-19.52.39:163][482]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2019.01.26-19.52.39:163][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.26-19.52.42:781][482]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerCharacter_Auto642AE5E63437264DEFFE8878286A34722.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto6.uasset'
+[2019.01.26-19.52.42:800][482]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/HookPoint] ([1] browsable assets)...
+[2019.01.26-19.52.42:800][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/HookPoint]
+[2019.01.26-19.52.42:984][482]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/HookPoint_Auto613ED36644A70F7928BBD03B60B2E111E.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/Blueprints/HookPoint_Auto6.uasset'
+[2019.01.26-19.52.42:995][482]LogFileHelpers: Auto-saving content packages took 3.849
+[2019.01.26-19.52.49:545][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.53.01:671][630]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (30.178 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.26-19.53.05:796][935]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.53.05:821][935]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.53.05:821][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.53.05:821][935]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:53:05 AM)
+[2019.01.26-19.53.05:821][935]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.53.05:844][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022977s)
+[2019.01.26-19.53.05:845][935]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.53.05:845][935]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2019.01.26-19.53.05:846][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024358s)
+[2019.01.26-19.53.05:929][935]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.53.05:956][935]LogInit: FAudioDevice initialized.
+[2019.01.26-19.53.06:030][935]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.53.06:035][935]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.53.06
+[2019.01.26-19.53.06:035][935]LogWorld: Bringing up level for play took: 0.004037
+[2019.01.26-19.53.06:050][935]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.405
+[2019.01.26-19.53.06:051][935]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.53.19:608][551]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.53.19:608][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.53.19:736][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.53.19:736][551]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.53.19:808][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.53.19:837][552]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2019.01.26-19.53.20:640][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.53.50:832][713]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.53.52:925][857]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.53.52:953][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.53.52:954][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.53.52:954][857]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:53:52 AM)
+[2019.01.26-19.53.52:954][857]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.53.52:976][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021788s)
+[2019.01.26-19.53.52:977][857]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.53.52:977][857]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2019.01.26-19.53.52:977][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023053s)
+[2019.01.26-19.53.53:111][857]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.53.53:133][857]LogInit: FAudioDevice initialized.
+[2019.01.26-19.53.53:167][857]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.53.53:170][857]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.53.53
+[2019.01.26-19.53.53:171][857]LogWorld: Bringing up level for play took: 0.002858
+[2019.01.26-19.53.53:185][857]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.729
+[2019.01.26-19.53.53:185][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.53.59:519][613]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.53.59:520][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.53.59:563][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.53.59:563][613]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.53.59:640][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.53.59:667][614]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2019.01.26-19.53.59:986][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.54.16:378][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.54.16:640][765]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.26-19.54.19:887][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.54.19:963][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.54.19:983][ 97]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.54.19:983][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.54.19:983][ 97]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:54:19 AM)
+[2019.01.26-19.54.19:983][ 97]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.54.20:006][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022775s)
+[2019.01.26-19.54.20:007][ 97]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.54.20:007][ 97]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2019.01.26-19.54.20:008][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023963s)
+[2019.01.26-19.54.20:141][ 97]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.54.20:164][ 97]LogInit: FAudioDevice initialized.
+[2019.01.26-19.54.20:206][ 97]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.54.20:209][ 97]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.54.20
+[2019.01.26-19.54.20:210][ 97]LogWorld: Bringing up level for play took: 0.003410
+[2019.01.26-19.54.20:224][ 97]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.232
+[2019.01.26-19.54.20:224][ 97]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.54.25:582][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.54.25:582][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.54.25:646][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.54.25:646][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.54.25:714][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.54.25:739][728]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2019.01.26-19.54.26:196][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.54.50:393][238]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.54.50:415][238]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.54.50:415][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.54.50:415][238]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:54:50 AM)
+[2019.01.26-19.54.50:415][238]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.54.50:438][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022264s)
+[2019.01.26-19.54.50:438][238]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.54.50:439][238]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2019.01.26-19.54.50:439][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023397s)
+[2019.01.26-19.54.50:523][238]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.54.50:548][238]LogInit: FAudioDevice initialized.
+[2019.01.26-19.54.50:636][238]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.54.50:640][238]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.54.50
+[2019.01.26-19.54.50:640][238]LogWorld: Bringing up level for play took: 0.003265
+[2019.01.26-19.54.50:655][238]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.199
+[2019.01.26-19.54.50:655][238]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.55.16:262][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.55.16:262][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.55.16:317][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.55.16:317][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.55.16:402][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.55.16:428][301]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2019.01.26-19.55.18:763][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.55.19:166][610]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.26-19.55.22:663][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.55.22:747][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.55.22:769][ 16]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.55.22:769][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.55.22:770][ 16]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:55:22 AM)
+[2019.01.26-19.55.22:770][ 16]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.55.22:794][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023570s)
+[2019.01.26-19.55.22:794][ 16]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.55.22:794][ 16]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2019.01.26-19.55.22:795][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024684s)
+[2019.01.26-19.55.22:880][ 16]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.55.22:902][ 16]LogInit: FAudioDevice initialized.
+[2019.01.26-19.55.22:937][ 16]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.55.22:940][ 16]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.55.22
+[2019.01.26-19.55.22:940][ 16]LogWorld: Bringing up level for play took: 0.002892
+[2019.01.26-19.55.22:955][ 16]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.499
+[2019.01.26-19.55.22:955][ 16]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.55.30:297][892]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.55.30:298][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.55.30:343][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.55.30:343][892]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.55.30:423][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.55.30:450][893]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2019.01.26-19.55.33:443][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.56.42:580][658]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.56.42:603][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.56.42:603][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.56.42:603][658]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:56:42 AM)
+[2019.01.26-19.56.42:604][658]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.56.42:626][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022067s)
+[2019.01.26-19.56.42:627][658]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.56.42:627][658]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2019.01.26-19.56.42:627][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023242s)
+[2019.01.26-19.56.42:813][658]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.56.42:836][658]LogInit: FAudioDevice initialized.
+[2019.01.26-19.56.42:872][658]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.56.42:875][658]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.56.42
+[2019.01.26-19.56.42:876][658]LogWorld: Bringing up level for play took: 0.003557
+[2019.01.26-19.56.42:891][658]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.435
+[2019.01.26-19.56.42:892][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.56.48:765][357]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.56.48:765][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.56.48:904][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.56.48:904][357]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.56.48:980][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.56.49:007][358]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2019.01.26-19.56.49:270][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.57.28:839][325]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.57.28:860][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.57.28:861][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.57.28:861][325]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:57:28 AM)
+[2019.01.26-19.57.28:861][325]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.57.28:885][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023921s)
+[2019.01.26-19.57.28:886][325]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.57.28:887][325]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2019.01.26-19.57.28:887][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.025454s)
+[2019.01.26-19.57.29:052][325]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.57.29:076][325]LogInit: FAudioDevice initialized.
+[2019.01.26-19.57.29:112][325]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.57.29:116][325]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.57.29
+[2019.01.26-19.57.29:117][325]LogWorld: Bringing up level for play took: 0.003505
+[2019.01.26-19.57.29:131][325]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.674
+[2019.01.26-19.57.29:131][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.57.34:900][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.57.34:900][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.57.35:010][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.57.35:010][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.57.35:085][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.57.35:113][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2019.01.26-19.57.35:418][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.58.00:718][268]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.58.02:586][364]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.58.02:675][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.58.02:675][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.58.02:675][364]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:58:02 AM)
+[2019.01.26-19.58.02:675][364]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.58.02:698][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022587s)
+[2019.01.26-19.58.02:699][364]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.58.02:699][364]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2019.01.26-19.58.02:699][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023696s)
+[2019.01.26-19.58.02:825][364]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.58.02:848][364]LogInit: FAudioDevice initialized.
+[2019.01.26-19.58.02:885][364]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.58.02:889][364]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.58.02
+[2019.01.26-19.58.02:889][364]LogWorld: Bringing up level for play took: 0.003193
+[2019.01.26-19.58.02:904][364]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.447
+[2019.01.26-19.58.02:904][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.58.20:660][479]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.58.20:660][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.58.20:705][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.58.20:705][479]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.58.20:782][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.58.20:810][480]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2019.01.26-19.58.21:122][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.58.26:323][762]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.58.30:987][973]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-19.58.33:043][ 87]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.58.33:134][ 87]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.58.33:134][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.58.33:134][ 87]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 9:58:33 AM)
+[2019.01.26-19.58.33:134][ 87]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.58.33:157][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022986s)
+[2019.01.26-19.58.33:158][ 87]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.58.33:158][ 87]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2019.01.26-19.58.33:158][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024208s)
+[2019.01.26-19.58.33:295][ 87]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.58.33:316][ 87]LogInit: FAudioDevice initialized.
+[2019.01.26-19.58.33:350][ 87]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.58.33:354][ 87]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.58.33
+[2019.01.26-19.58.33:354][ 87]LogWorld: Bringing up level for play took: 0.003248
+[2019.01.26-19.58.33:369][ 87]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.913
+[2019.01.26-19.58.33:370][ 87]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.58.54:869][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.58.54:869][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.58.54:914][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.58.54:914][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.58.54:994][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.58.55:023][660]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2019.01.26-19.58.57:776][967]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.58.59:141][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.58.59:141][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.58.59:141][119]PIE: New page: SIE session: SideScrollerExampleMap (Jan 26, 2019, 9:58:59 AM)
+[2019.01.26-19.58.59:141][119]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.58.59:164][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022652s)
+[2019.01.26-19.58.59:165][119]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.58.59:165][119]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2019.01.26-19.58.59:165][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023912s)
+[2019.01.26-19.58.59:252][119]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.58.59:278][119]LogInit: FAudioDevice initialized.
+[2019.01.26-19.58.59:279][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.58.59:329][119]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.58.59:333][119]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.58.59
+[2019.01.26-19.58.59:334][119]LogWorld: Bringing up level for play took: 0.003231
+[2019.01.26-19.58.59:347][119]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.26-19.58.59:348][119]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.891
+[2019.01.26-19.58.59:365][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.59.03:892][595]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.01.26-19.59.04:765][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.59.37:002][504]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.59.37:002][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.59.37:047][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.59.37:047][504]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.59.37:116][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.59.37:144][505]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2019.01.26-19.59.37:489][526]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.59.45:176][954]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.26-19.59.45:789][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.59.45:842][ 27]LogTemp: Repeating last play command: Simulate
+[2019.01.26-19.59.45:864][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-19.59.45:864][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.59.45:864][ 27]PIE: New page: SIE session: SideScrollerExampleMap (Jan 26, 2019, 9:59:45 AM)
+[2019.01.26-19.59.45:864][ 27]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-19.59.45:886][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023113s)
+[2019.01.26-19.59.45:887][ 27]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-19.59.45:887][ 27]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2019.01.26-19.59.45:887][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024300s)
+[2019.01.26-19.59.45:968][ 27]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.59.45:995][ 27]LogInit: FAudioDevice initialized.
+[2019.01.26-19.59.46:097][ 27]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-19.59.46:101][ 27]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-14.59.46
+[2019.01.26-19.59.46:101][ 27]LogWorld: Bringing up level for play took: 0.003700
+[2019.01.26-19.59.46:114][ 27]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.26-19.59.46:115][ 27]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.342
+[2019.01.26-19.59.46:127][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.00.49:817][601]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.00.49:817][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.00.49:926][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.00.49:926][601]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.00.49:997][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.00.50:027][602]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2019.01.26-20.00.55:000][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-20.02.01:376][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-20.02.01:434][580]LogTemp: Repeating last play command: Simulate
+[2019.01.26-20.02.01:455][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.02.01:455][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-20.02.01:455][580]PIE: New page: SIE session: SideScrollerExampleMap (Jan 26, 2019, 10:02:01 AM)
+[2019.01.26-20.02.01:455][580]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-20.02.01:479][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023032s)
+[2019.01.26-20.02.01:479][580]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-20.02.01:480][580]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2019.01.26-20.02.01:480][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024212s)
+[2019.01.26-20.02.01:562][580]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-20.02.01:586][580]LogInit: FAudioDevice initialized.
+[2019.01.26-20.02.01:627][580]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-20.02.01:631][580]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-15.02.01
+[2019.01.26-20.02.01:631][580]LogWorld: Bringing up level for play took: 0.003375
+[2019.01.26-20.02.01:645][580]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.26-20.02.01:646][580]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 1.188
+[2019.01.26-20.02.01:650][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.02.41:852][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.02.41:852][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.02.41:963][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.02.41:963][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.02.42:033][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.02.42:063][385]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2019.01.26-20.06.51:323][226]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.01.26-20.06.55:843][649]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-20.06.58:257][670]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerExampleMap_Auto7D2B95B154EA788686E61B6811537D6E0.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto7.umap'
+[2019.01.26-20.06.58:282][670]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 1.564
+[2019.01.26-20.06.58:282][670]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.564
+[2019.01.26-20.06.58:288][670]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2019.01.26-20.06.58:306][670]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2019.01.26-20.06.58:306][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.26-20.07.01:865][670]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerCharacter_Auto7E5587D0144028AA4573ADEA875285271.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto7.uasset'
+[2019.01.26-20.07.01:892][670]LogFileHelpers: Auto-saving content packages took 3.607
+[2019.01.26-20.08.09:295][ 28]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-20.08.11:318][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-20.08.11:400][128]LogTemp: Repeating last play command: Simulate
+[2019.01.26-20.08.11:481][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.11:481][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-20.08.11:481][128]PIE: New page: SIE session: SideScrollerExampleMap (Jan 26, 2019, 10:08:11 AM)
+[2019.01.26-20.08.11:481][128]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-20.08.11:507][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025103s)
+[2019.01.26-20.08.11:508][128]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-20.08.11:508][128]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2019.01.26-20.08.11:508][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.026657s)
+[2019.01.26-20.08.11:670][128]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-20.08.11:697][128]LogInit: FAudioDevice initialized.
+[2019.01.26-20.08.11:733][128]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-20.08.11:736][128]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-15.08.11
+[2019.01.26-20.08.11:736][128]LogWorld: Bringing up level for play took: 0.002654
+[2019.01.26-20.08.11:749][128]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.26-20.08.11:751][128]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 1.291
+[2019.01.26-20.08.11:836][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.18:142][867]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.18:143][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.08.18:187][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.08.18:187][867]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.18:269][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.08.18:297][868]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2019.01.26-20.08.19:333][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-20.08.19:417][999]LogTemp: Repeating last play command: Simulate
+[2019.01.26-20.08.19:436][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.19:437][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-20.08.19:437][999]PIE: New page: SIE session: SideScrollerExampleMap (Jan 26, 2019, 10:08:19 AM)
+[2019.01.26-20.08.19:437][999]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-20.08.19:457][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021437s)
+[2019.01.26-20.08.19:458][999]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-20.08.19:458][999]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2019.01.26-20.08.19:458][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.022531s)
+[2019.01.26-20.08.19:532][999]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-20.08.19:557][999]LogInit: FAudioDevice initialized.
+[2019.01.26-20.08.19:592][999]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-20.08.19:596][999]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-15.08.19
+[2019.01.26-20.08.19:597][999]LogWorld: Bringing up level for play took: 0.003180
+[2019.01.26-20.08.19:610][999]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.26-20.08.19:611][999]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 1.151
+[2019.01.26-20.08.19:614][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.21:180][179]Cmd: SELECT NONE
+[2019.01.26-20.08.22:110][290]Cmd: SELECT NONE
+[2019.01.26-20.08.22:629][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.22:629][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.08.22:679][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.08.22:679][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.22:755][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.08.22:778][352]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2019.01.26-20.08.24:980][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.24:980][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-20.08.24:980][609]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 10:08:24 AM)
+[2019.01.26-20.08.24:981][609]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-20.08.25:003][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021996s)
+[2019.01.26-20.08.25:003][609]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-20.08.25:004][609]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2019.01.26-20.08.25:004][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023056s)
+[2019.01.26-20.08.25:096][609]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-20.08.25:120][609]LogInit: FAudioDevice initialized.
+[2019.01.26-20.08.25:154][609]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-20.08.25:158][609]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-15.08.25
+[2019.01.26-20.08.25:158][609]LogWorld: Bringing up level for play took: 0.003536
+[2019.01.26-20.08.25:172][609]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.712
+[2019.01.26-20.08.25:172][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.27:028][819]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.27:028][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.08.27:071][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.08.27:071][819]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.27:148][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.08.27:168][820]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2019.01.26-20.08.27:503][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-20.08.27:566][865]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-20.08.27:587][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.27:587][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-20.08.27:587][865]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 10:08:27 AM)
+[2019.01.26-20.08.27:587][865]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-20.08.27:607][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020231s)
+[2019.01.26-20.08.27:608][865]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-20.08.27:608][865]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2019.01.26-20.08.27:608][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.021362s)
+[2019.01.26-20.08.27:702][865]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-20.08.27:726][865]LogInit: FAudioDevice initialized.
+[2019.01.26-20.08.27:765][865]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-20.08.27:768][865]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-15.08.27
+[2019.01.26-20.08.27:768][865]LogWorld: Bringing up level for play took: 0.002972
+[2019.01.26-20.08.27:783][865]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.677
+[2019.01.26-20.08.27:783][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.36:536][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.36:536][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.08.36:581][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.08.36:581][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.36:651][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.08.36:678][911]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2019.01.26-20.08.37:030][932]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-20.08.41:582][154]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-20.08.42:535][155]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-20.08.45:065][313]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-20.08.45:151][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.45:151][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-20.08.45:151][313]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 10:08:45 AM)
+[2019.01.26-20.08.45:152][313]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-20.08.45:174][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022397s)
+[2019.01.26-20.08.45:175][313]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-20.08.45:175][313]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2019.01.26-20.08.45:175][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023643s)
+[2019.01.26-20.08.45:333][313]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-20.08.45:357][313]LogInit: FAudioDevice initialized.
+[2019.01.26-20.08.45:395][313]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-20.08.45:399][313]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-15.08.45
+[2019.01.26-20.08.45:400][313]LogWorld: Bringing up level for play took: 0.003327
+[2019.01.26-20.08.45:414][313]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.955
+[2019.01.26-20.08.45:415][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.51:074][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.51:074][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.08.51:121][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.08.51:121][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.08.51:193][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.08.51:220][988]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2019.01.26-20.08.51:523][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-20.08.53:240][ 76]LogEditorTransaction: Undo Change Number Pin Value
+[2019.01.26-20.09.32:224][255]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-20.09.35:346][496]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-20.09.35:432][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.09.35:432][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-20.09.35:432][496]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 10:09:35 AM)
+[2019.01.26-20.09.35:432][496]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-20.09.35:454][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021653s)
+[2019.01.26-20.09.35:455][496]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-20.09.35:455][496]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2019.01.26-20.09.35:455][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.022866s)
+[2019.01.26-20.09.35:603][496]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-20.09.35:626][496]LogInit: FAudioDevice initialized.
+[2019.01.26-20.09.35:661][496]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-20.09.35:665][496]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-15.09.35
+[2019.01.26-20.09.35:665][496]LogWorld: Bringing up level for play took: 0.002940
+[2019.01.26-20.09.35:681][496]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 1.22
+[2019.01.26-20.09.35:681][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.09.45:604][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.09.45:604][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.09.45:651][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.09.45:652][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.09.45:722][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.09.45:750][683]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2019.01.26-20.09.46:070][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-20.09.55:577][213]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-20.14.13:525][437]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-20.14.16:444][596]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-20.14.16:536][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.14.16:537][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-20.14.16:537][596]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 10:14:16 AM)
+[2019.01.26-20.14.16:537][596]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-20.14.16:562][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024508s)
+[2019.01.26-20.14.16:563][596]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-20.14.16:563][596]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2019.01.26-20.14.16:563][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.025898s)
+[2019.01.26-20.14.16:728][596]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-20.14.16:751][596]LogInit: FAudioDevice initialized.
+[2019.01.26-20.14.16:789][596]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-20.14.16:793][596]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-15.14.16
+[2019.01.26-20.14.16:793][596]LogWorld: Bringing up level for play took: 0.003097
+[2019.01.26-20.14.16:808][596]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.347
+[2019.01.26-20.14.16:808][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.14.25:998][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.14.25:998][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.14.26:045][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.14.26:045][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.14.26:131][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.14.26:159][694]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2019.01.26-20.14.26:495][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-20.14.37:416][263]LogEditorTransaction: Undo Move Node
+[2019.01.26-20.14.37:833][266]LogEditorTransaction: Undo Add Node
+[2019.01.26-20.14.38:827][297]LogEditorTransaction: Undo Delete current selection
+[2019.01.26-20.14.41:931][453]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-20.14.43:963][563]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-20.14.44:060][563]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.14.44:061][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-20.14.44:061][563]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 10:14:44 AM)
+[2019.01.26-20.14.44:061][563]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-20.14.44:083][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021901s)
+[2019.01.26-20.14.44:084][563]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-20.14.44:084][563]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2019.01.26-20.14.44:084][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023011s)
+[2019.01.26-20.14.44:166][563]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-20.14.44:189][563]LogInit: FAudioDevice initialized.
+[2019.01.26-20.14.44:229][563]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-20.14.44:233][563]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-15.14.44
+[2019.01.26-20.14.44:233][563]LogWorld: Bringing up level for play took: 0.002912
+[2019.01.26-20.14.44:247][563]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.215
+[2019.01.26-20.14.44:247][563]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.14.50:331][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.14.50:331][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.14.50:374][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.14.50:374][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.14.50:449][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.14.50:479][290]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2019.01.26-20.14.50:783][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-20.14.58:198][676]LogEditorTransaction: Undo Delete current selection
+[2019.01.26-20.15.39:432][946]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-20.15.45:636][305]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-20.15.45:729][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.15.45:729][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-20.15.45:729][305]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 10:15:45 AM)
+[2019.01.26-20.15.45:729][305]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-20.15.45:752][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023160s)
+[2019.01.26-20.15.45:753][305]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-20.15.45:753][305]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2019.01.26-20.15.45:753][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024325s)
+[2019.01.26-20.15.45:882][305]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-20.15.45:904][305]LogInit: FAudioDevice initialized.
+[2019.01.26-20.15.45:941][305]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-20.15.45:946][305]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-15.15.45
+[2019.01.26-20.15.45:946][305]LogWorld: Bringing up level for play took: 0.003651
+[2019.01.26-20.15.45:960][305]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.502
+[2019.01.26-20.15.45:960][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.15.55:620][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.15.55:620][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.15.55:667][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.15.55:667][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.15.55:737][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.15.55:764][460]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2019.01.26-20.15.56:103][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-20.16.13:968][354]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerExampleMap3A6D34E04244FAD8C3E8A6BA298C19CD.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2019.01.26-20.16.14:041][354]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 1.699
+[2019.01.26-20.16.17:521][354]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerCharacterA4D67EC7414FF1A01D9209BDE2070280.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2019.01.26-20.16.17:722][354]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/HookPointBAA5DFFB42267D7AF777EEB0CF6E1A2A.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/SideScrollerBP/Blueprints/HookPoint.uasset'
+[2019.01.26-20.17.03:076][ 49]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-20.17.10:228][466]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-20.17.10:318][466]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.17.10:318][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-20.17.10:318][466]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 10:17:10 AM)
+[2019.01.26-20.17.10:318][466]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-20.17.10:342][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023283s)
+[2019.01.26-20.17.10:342][466]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-20.17.10:343][466]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2019.01.26-20.17.10:343][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024574s)
+[2019.01.26-20.17.10:502][466]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-20.17.10:527][466]LogInit: FAudioDevice initialized.
+[2019.01.26-20.17.10:566][466]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-20.17.10:570][466]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-15.17.10
+[2019.01.26-20.17.10:571][466]LogWorld: Bringing up level for play took: 0.003539
+[2019.01.26-20.17.10:585][466]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.123
+[2019.01.26-20.17.10:585][466]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.17.37:450][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.17.37:450][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.17.37:495][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.17.37:496][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.17.37:569][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.17.37:597][667]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2019.01.26-20.17.38:169][710]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-20.17.56:204][738]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-20.17.56:226][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.17.56:226][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-20.17.56:226][738]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 10:17:56 AM)
+[2019.01.26-20.17.56:226][738]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-20.17.56:249][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022526s)
+[2019.01.26-20.17.56:250][738]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-20.17.56:250][738]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2019.01.26-20.17.56:250][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023689s)
+[2019.01.26-20.17.56:330][738]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-20.17.56:358][738]LogInit: FAudioDevice initialized.
+[2019.01.26-20.17.56:416][738]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-20.17.56:419][738]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-15.17.56
+[2019.01.26-20.17.56:420][738]LogWorld: Bringing up level for play took: 0.002982
+[2019.01.26-20.17.56:434][738]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.028
+[2019.01.26-20.17.56:434][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.18.24:472][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.18.24:473][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.18.24:593][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.18.24:594][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.18.24:665][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.18.24:692][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2019.01.26-20.18.25:625][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-20.19.01:020][ 95]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.26-20.19.03:404][224]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-20.19.03:497][224]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.19.03:498][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-20.19.03:498][224]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 10:19:03 AM)
+[2019.01.26-20.19.03:498][224]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.26-20.19.03:522][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024610s)
+[2019.01.26-20.19.03:522][224]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.26-20.19.03:523][224]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2019.01.26-20.19.03:523][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.025843s)
+[2019.01.26-20.19.03:695][224]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-20.19.03:718][224]LogInit: FAudioDevice initialized.
+[2019.01.26-20.19.03:756][224]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.26-20.19.03:760][224]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-15.19.03
+[2019.01.26-20.19.03:761][224]LogWorld: Bringing up level for play took: 0.003232
+[2019.01.26-20.19.03:775][224]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 1.313
+[2019.01.26-20.19.03:775][224]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.19.14:053][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.19.14:053][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.19.14:100][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-20.19.14:100][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.26-20.19.14:172][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-20.19.14:200][451]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2019.01.26-20.19.29:474][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
