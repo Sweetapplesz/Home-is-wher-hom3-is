@@ -710,3 +710,344 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.27-15.16.27:390][611]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/SideScroller2.SideScroller2:PersistentLevel.SideScroller2
 [2019.01.27-15.16.34:417][776]BlueprintLog: New page: Compile SideScroller2
 [2019.01.27-15.16.34:772][776]BlueprintLog: New page: Compile SideScroller2
+[2019.01.27-15.23.26:314][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.23.31:489][766]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-15.23.31:515][766]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2019.01.27-15.23.32:979][766]LogSlate: Window 'Save Content' being destroyed
+[2019.01.27-15.23.33:527][766]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScroller204B035CC433A3625E7C9F78FC1F56A58.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Maps/SideScroller2.umap'
+[2019.01.27-15.23.33:567][766]LogFileHelpers: Saving map 'SideScroller2' took 0.576
+[2019.01.27-15.23.33:568][766]Cmd: MAP LOAD FILE="../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-15.23.33:568][766]LightingResults: New page: Lighting Build
+[2019.01.27-15.23.33:569][766]LoadErrors: New page: Loading map: SideScrollerExampleMap.umap
+[2019.01.27-15.23.33:619][766]MapCheck: New page: Map Check
+[2019.01.27-15.23.33:619][766]LightingResults: New page: Lighting Build
+[2019.01.27-15.23.33:800][766]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-15.23.33:880][766]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-15.23.33:880][766]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.22ms to complete.
+[2019.01.27-15.23.33:880][766]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.314
+[2019.01.27-15.23.34:036][766]LogAIModule: Creating AISystem for world SideScroller2
+[2019.01.27-15.24.27:163][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge2)
+[2019.01.27-15.24.39:217][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.24.39:459][155]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Pause_Menu.Pause_Menu
+[2019.01.27-15.24.48:531][347]LogSlate: Window 'Pause_Menu' being destroyed
+[2019.01.27-15.24.48:550][347]LogSlate: Window 'Pause_Menu' being destroyed
+[2019.01.27-15.24.49:665][376]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.24.49:708][376]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-15.24.49:708][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.24.49:708][376]PIE: New page: PIE session: SideScrollerExampleMap (Jan 27, 2019, 5:24:49 AM)
+[2019.01.27-15.24.49:708][376]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.27-15.24.49:769][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060872s)
+[2019.01.27-15.24.49:770][376]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-15.24.49:771][376]LogPlayLevel: PIE: World Init took: (0.001716s)
+[2019.01.27-15.24.49:771][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.062922s)
+[2019.01.27-15.24.49:826][376]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-15.24.49:921][376]LogInit: FAudioDevice initialized.
+[2019.01.27-15.24.49:961][376]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.27-15.24.49:964][376]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2019.01.27-10.24.49
+[2019.01.27-15.24.49:964][376]LogWorld: Bringing up level for play took: 0.002982
+[2019.01.27-15.24.49:980][376]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.295
+[2019.01.27-15.24.49:980][376]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-15.24.53:638][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.24.58:557][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.24.58:651][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.25.01:181][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.25.01:181][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-15.25.01:262][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.25.01:262][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-15.25.01:317][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.25.01:376][715]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.01.27-15.25.12:399][ 74]LogTemp: Repeating last play command: Standalone Game
+[2019.01.27-15.25.26:398][423]LogTemp: Repeating last play command: Standalone Game
+[2019.01.27-15.25.40:283][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-15.25.40:284][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.25.40:284][737]PIE: New page: PIE session: SideScrollerExampleMap (Jan 27, 2019, 5:25:40 AM)
+[2019.01.27-15.25.40:285][737]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.27-15.25.40:400][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114691s)
+[2019.01.27-15.25.40:404][737]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-15.25.40:406][737]LogPlayLevel: PIE: World Init took: (0.005299s)
+[2019.01.27-15.25.40:407][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.121614s)
+[2019.01.27-15.25.40:533][737]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-15.25.40:668][737]LogInit: FAudioDevice initialized.
+[2019.01.27-15.25.40:683][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.25.40:841][737]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.27-15.25.40:857][737]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2019.01.27-10.25.40
+[2019.01.27-15.25.40:863][737]LogWorld: Bringing up level for play took: 0.018611
+[2019.01.27-15.25.40:921][737]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 1.236
+[2019.01.27-15.25.40:924][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-15.25.44:718][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.25.47:539][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.25.47:618][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.25.49:972][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.25.49:972][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-15.25.50:045][947]LogSlate: Window 'Stick With Me  Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.01.27-15.25.50:116][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.25.50:117][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-15.25.50:346][948]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.01.27-15.25.53:789][ 29]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-15.25.53:789][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.25.53:789][ 29]PIE: New page: PIE session: SideScrollerExampleMap (Jan 27, 2019, 5:25:53 AM)
+[2019.01.27-15.25.53:790][ 29]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.27-15.25.53:876][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085893s)
+[2019.01.27-15.25.53:880][ 29]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-15.25.53:882][ 29]LogPlayLevel: PIE: World Init took: (0.005548s)
+[2019.01.27-15.25.53:882][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.092674s)
+[2019.01.27-15.25.53:974][ 29]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-15.25.54:111][ 29]LogInit: FAudioDevice initialized.
+[2019.01.27-15.25.54:158][ 29]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.27-15.25.54:164][ 29]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2019.01.27-10.25.54
+[2019.01.27-15.25.54:164][ 29]LogWorld: Bringing up level for play took: 0.004713
+[2019.01.27-15.25.54:180][ 29]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.495
+[2019.01.27-15.25.54:180][ 29]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-15.25.57:802][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.26.22:487][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-15.26.22:489][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.26.22:594][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.26.22:596][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-15.26.22:700][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.26.22:764][694]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.01.27-15.29.41:165][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.29.45:673][491]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/SideScroller2.SideScroller2
+[2019.01.27-15.29.45:746][491]Cmd: MAP LOAD FILE="../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Maps/SideScroller2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-15.29.45:747][491]LightingResults: New page: Lighting Build
+[2019.01.27-15.29.45:748][491]LoadErrors: New page: Loading map: SideScroller2.umap
+[2019.01.27-15.29.45:749][491]MapCheck: New page: Map Check
+[2019.01.27-15.29.45:749][491]LightingResults: New page: Lighting Build
+[2019.01.27-15.29.45:967][491]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-15.29.46:051][491]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-15.29.46:051][491]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.234ms to complete.
+[2019.01.27-15.29.46:053][491]LogFileHelpers: Loading map 'SideScroller2' took 0.308
+[2019.01.27-15.30.01:576][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.30.23:999][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.30.24:084][882]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-15.30.24:117][882]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SideScroller2.SideScroller2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScroller2.SideScroller2:PersistentLevel.SideScroller2' with GeneratedClass '/Game/Maps/SideScroller2.SideScroller2_C' with ClassGeneratedBy '/Game/Maps/SideScroller2.SideScroller2:PersistentLevel.SideScroller2'
+[2019.01.27-15.30.24:118][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-15.30.24:119][882]PIE: New page: PIE session: SideScroller2 (Jan 27, 2019, 5:30:24 AM)
+[2019.01.27-15.30.24:119][882]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScroller2
+[2019.01.27-15.30.24:195][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075545s)
+[2019.01.27-15.30.24:196][882]LogAIModule: Creating AISystem for world SideScroller2
+[2019.01.27-15.30.24:196][882]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2019.01.27-15.30.24:197][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScroller2.SideScroller2 to /Game/Maps/UEDPIE_0_SideScroller2.SideScroller2 (0.077799s)
+[2019.01.27-15.30.24:254][882]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-15.30.24:359][882]LogInit: FAudioDevice initialized.
+[2019.01.27-15.30.24:400][882]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.27-15.30.24:411][882]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScroller2.SideScroller2 up for play (max tick rate 60) at 2019.01.27-10.30.24
+[2019.01.27-15.30.24:416][882]LogWorld: Bringing up level for play took: 0.014407
+[2019.01.27-15.30.24:432][882]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SideScroller2 0.747
+[2019.01.27-15.30.24:433][882]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SideScroller2.SideScroller2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScroller2.SideScroller2:PersistentLevel.SideScroller2' with GeneratedClass '/Game/Maps/SideScroller2.SideScroller2_C' with ClassGeneratedBy '/Game/Maps/SideScroller2.SideScroller2:PersistentLevel.SideScroller2'
+[2019.01.27-15.30.25:851][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SideScroller2.SideScroller2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScroller2.SideScroller2:PersistentLevel.SideScroller2' with GeneratedClass '/Game/Maps/SideScroller2.SideScroller2_C' with ClassGeneratedBy '/Game/Maps/SideScroller2.SideScroller2:PersistentLevel.SideScroller2'
+[2019.01.27-15.30.25:851][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.30.25:911][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-15.30.25:911][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SideScroller2.SideScroller2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SideScroller2.SideScroller2:PersistentLevel.SideScroller2' with GeneratedClass '/Game/Maps/SideScroller2.SideScroller2_C' with ClassGeneratedBy '/Game/Maps/SideScroller2.SideScroller2:PersistentLevel.SideScroller2'
+[2019.01.27-15.30.25:958][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-15.30.25:977][926]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.01.27-15.34.15:072][267]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.01.27-15.34.15:072][267]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-15.34.15:073][267]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-15.34.20:582][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-15.34.52:418][561]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (37.346 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-15.35.34:316][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-15.35.36:444][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-15.36.01:525][305]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.27-15.36.01:528][305]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.01.27-15.36.01:588][305]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Trailer.Trailer
+[2019.01.27-15.36.11:666][532]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.01.27-15.36.12:206][541]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.01.27-15.36.14:450][598]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-15.36.18:067][696]LogEditorViewport: Clicking on Actor (context menu): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.01.27-15.36.18:246][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-15.36.41:716][224]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-15.36.46:237][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.36.47:383][362]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 480.00,4100.00,8840.00
+[2019.01.27-15.36.49:256][415]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 600.00,4010.00,8670.00
+[2019.01.27-15.36.52:409][506]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (50.639 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-15.36.52:990][521]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 920.00,3980.00,8970.00
+[2019.01.27-15.36.59:000][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.36.59:118][690]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 890.00,4670.00,8170.00
+[2019.01.27-15.37.01:926][768]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 460.00,4530.00,7850.00
+[2019.01.27-15.37.04:918][841]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-15.37.06:471][881]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-15.37.07:233][901]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor4)
+[2019.01.27-15.37.39:668][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.37.52:481][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.38.01:900][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.40.03:427][509]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScroller2_Auto2FB73A9964484D93DB79991ACE5A05DAB.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Maps/SideScroller2_Auto2.umap'
+[2019.01.27-15.40.03:434][509]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SideScroller2' took 0.571
+[2019.01.27-15.40.03:434][509]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.571
+[2019.01.27-15.40.03:437][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Trailer] ([1] browsable assets)...
+[2019.01.27-15.40.03:437][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/Trailer]
+[2019.01.27-15.40.03:437][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Trailer" FILE="../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Trailer_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.01.27-15.40.03:451][509]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Trailer_Auto27801B2CF470C244CF4B3C29B0CBA31EA.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Trailer_Auto2.uasset'
+[2019.01.27-15.40.03:455][509]LogFileHelpers: Auto-saving content packages took 0.020
+[2019.01.27-15.40.14:448][693]LogTexture: Display: Building textures: frame1 (AutoDXT, 2048X2048)
+[2019.01.27-15.40.14:448][693]LogTexture: Display: Building textures: frame2 (AutoDXT, 2048X2048)
+[2019.01.27-15.40.15:242][711]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-15.40.18:551][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.40.22:650][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.40.30:315][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.40.36:747][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.41.15:860][226]Cmd: DELETE
+[2019.01.27-15.41.15:860][226]Cmd: ACTOR DELETE
+[2019.01.27-15.41.15:906][226]LogEditorActor: Deleted Actor: PaperFlipbookActor
+[2019.01.27-15.41.15:964][226]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2019.01.27-15.41.28:136][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.41.41:566][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.41.43:055][831]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera)
+[2019.01.27-15.41.45:179][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.42.03:752][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-15.42.30:327][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.43.03:078][791]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera)
+[2019.01.27-15.43.10:497][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge2)
+[2019.01.27-15.43.11:739][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge2)
+[2019.01.27-15.43.12:468][ 15]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera)
+[2019.01.27-15.43.38:091][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.44.43:040][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.45.00:044][803]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera)
+[2019.01.27-15.45.13:296][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.45.47:033][865]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera)
+[2019.01.27-15.46.09:685][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.46.31:594][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge2)
+[2019.01.27-15.46.32:932][999]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera)
+[2019.01.27-15.46.34:172][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.48.13:957][996]LogSlate: Window 'Message' being destroyed
+[2019.01.27-15.48.14:003][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Trailer" FILE="../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Trailer.uasset" SILENT=true
+[2019.01.27-15.48.14:029][996]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Trailer5F6662BD46282537617A4C929A1C2AEF.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Trailer.uasset'
+[2019.01.27-15.48.14:578][996]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScroller2CF9981B944F23CCFBF03AA880617F370.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Maps/SideScroller2.umap'
+[2019.01.27-15.48.14:618][996]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 1
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2019.01.27-15.48.14:621][996]LogFileHelpers: Saving map 'SideScroller2' took 0.581
+[2019.01.27-15.48.20:009][125]LogSlate: Window 'Sequencer' being destroyed
+[2019.01.27-15.48.20:012][125]LogSlate: Window 'Sequencer' being destroyed
+[2019.01.27-15.48.25:366][301]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Trailer.Trailer
+[2019.01.27-15.48.44:441][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge10)
+[2019.01.27-15.49.17:374][639]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera1)
+[2019.01.27-15.50.00:264][ 26]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.01.27-15.50.17:248][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.50.17:512][466]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -530.00,3040.00,8570.00
+[2019.01.27-15.50.19:382][513]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -530.00,1160.00,7720.00
+[2019.01.27-15.50.24:118][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.51.03:370][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.51.11:141][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.51.25:008][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.52.36:676][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge20)
+[2019.01.27-15.52.37:513][783]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera_2)
+[2019.01.27-15.52.54:915][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.53.27:799][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.57.47:255][563]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera_2)
+[2019.01.27-15.58.07:006][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.58.56:040][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.58.59:385][187]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera_2)
+[2019.01.27-15.59.02:449][262]Cmd: TRANSACTION UNDO
+[2019.01.27-15.59.02:449][262]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.27-15.59.02:928][272]Cmd: TRANSACTION UNDO
+[2019.01.27-15.59.02:928][272]LogEditorTransaction: Undo Animatable Property Changed
+[2019.01.27-15.59.03:650][290]Cmd: TRANSACTION UNDO
+[2019.01.27-15.59.03:650][290]LogEditorTransaction: Undo Set Playback Range
+[2019.01.27-15.59.07:332][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-15.59.08:282][394]Cmd: TRANSACTION REDO
+[2019.01.27-15.59.08:282][394]LogEditorTransaction: Redo Set Playback Range
+[2019.01.27-15.59.08:945][406]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-15.59.09:675][424]Cmd: TRANSACTION REDO
+[2019.01.27-15.59.09:675][424]LogEditorTransaction: Redo Animatable Property Changed
+[2019.01.27-15.59.36:887][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-15.59.37:548][ 70]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScroller2_Auto3FA63D91A4B09B3F916469CA253A4383D.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Maps/SideScroller2_Auto3.umap'
+[2019.01.27-15.59.37:552][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SideScroller2' took 0.606
+[2019.01.27-15.59.37:552][ 70]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.606
+[2019.01.27-15.59.37:558][ 70]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Trailer] ([1] browsable assets)...
+[2019.01.27-15.59.37:558][ 70]OBJ SavePackage: Finished generating thumbnails for package [/Game/Trailer]
+[2019.01.27-15.59.37:558][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Trailer" FILE="../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Trailer_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.01.27-15.59.37:605][ 70]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Trailer_Auto339CBF189422328752C53C7A17BADB49C.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Trailer_Auto3.uasset'
+[2019.01.27-15.59.37:607][ 70]LogFileHelpers: Auto-saving content packages took 0.049
+[2019.01.27-15.59.50:427][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-15.59.54:494][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-16.00.38:428][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.06.31:232][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.06.31:442][494]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -550.00,-3910.00,9600.00
+[2019.01.27-16.06.32:726][526]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 350.00,-7310.00,9230.00
+[2019.01.27-16.06.44:975][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.06.58:599][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.07.37:966][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-16.08.11:566][919]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor8)
+[2019.01.27-16.08.11:931][923]LogEditorViewport: Clicking on Actor (context menu): CineCameraActor (CineCameraActor8)
+[2019.01.27-16.08.12:000][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-16.08.14:860][982]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-16.08.21:370][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-16.09.04:910][264]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera_3)
+[2019.01.27-16.09.22:127][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.09.36:066][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.09.40:765][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.10.00:138][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.10.36:567][374]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera_3)
+[2019.01.27-16.11.05:661][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.11.51:343][ 77]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.01.27-16.12.39:633][304]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-16.12.40:290][304]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScroller2_Auto42FA7B9C64B1ADC5078F5389B4B0DE3CA.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Maps/SideScroller2_Auto4.umap'
+[2019.01.27-16.12.40:297][304]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SideScroller2' took 0.602
+[2019.01.27-16.12.40:297][304]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.602
+[2019.01.27-16.12.40:300][304]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Trailer] ([1] browsable assets)...
+[2019.01.27-16.12.40:300][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Trailer]
+[2019.01.27-16.12.40:300][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Trailer" FILE="../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Trailer_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.01.27-16.12.40:357][304]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Trailer_Auto4CE66E2734FA8A3028729B0B090A48DD6.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Trailer_Auto4.uasset'
+[2019.01.27-16.12.40:359][304]LogFileHelpers: Auto-saving content packages took 0.059
+[2019.01.27-16.13.57:442][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.13.58:023][247]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 500.00,-17050.00,9230.00
+[2019.01.27-16.13.59:179][275]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 860.00,-17820.00,9230.00
+[2019.01.27-16.13.59:908][292]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 650.00,-17680.00,9230.00
+[2019.01.27-16.14.03:564][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.14.11:520][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.14.43:018][302]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-16.14.45:214][356]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-16.14.46:172][380]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-16.14.47:427][410]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-16.14.48:059][425]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-16.14.49:174][452]Cmd: TRANSACTION UNDO
+[2019.01.27-16.14.49:174][452]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.27-16.14.49:623][460]Cmd: TRANSACTION UNDO
+[2019.01.27-16.14.49:623][460]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.27-16.14.50:120][471]Cmd: TRANSACTION UNDO
+[2019.01.27-16.14.50:120][471]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.27-16.14.50:550][482]Cmd: TRANSACTION UNDO
+[2019.01.27-16.14.50:551][482]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.27-16.14.50:986][493]Cmd: TRANSACTION UNDO
+[2019.01.27-16.14.50:986][493]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.27-16.14.51:421][500]Cmd: TRANSACTION UNDO
+[2019.01.27-16.14.51:422][500]LogEditorTransaction: Undo Move Actors
+[2019.01.27-16.14.52:138][517]Cmd: TRANSACTION UNDO
+[2019.01.27-16.14.52:138][517]LogEditorTransaction: Undo Animatable Property Changed
+[2019.01.27-16.14.55:739][603]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-16.14.56:785][628]Cmd: TRANSACTION REDO
+[2019.01.27-16.14.56:785][628]LogEditorTransaction: Redo Animatable Property Changed
+[2019.01.27-16.15.27:049][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.15.35:299][495]LogEditorViewport: Clicking on Actor (context menu): CineCameraActor (CineCameraActor11)
+[2019.01.27-16.15.35:351][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-16.15.39:462][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-16.15.47:532][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-16.17.24:513][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2019.01.27-16.17.26:727][251]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera_4)
+[2019.01.27-16.17.47:691][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.18.14:882][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.18.45:738][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.19.55:354][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.21.14:966][573]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Trailer_Camera_4)
+[2019.01.27-16.21.46:256][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.22.04:007][663]LogSlate: Window 'Sequencer' being destroyed
+[2019.01.27-16.22.14:214][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.23.12:684][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.23.24:321][443]LogEditorViewport: Clicking Background
+[2019.01.27-16.23.44:081][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.23.50:222][353]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScroller2_Auto5190F339A4DBE425BA010D88A44394CA0.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Maps/SideScroller2_Auto5.umap'
+[2019.01.27-16.23.50:227][353]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SideScroller2' took 0.628
+[2019.01.27-16.23.50:227][353]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.628
+[2019.01.27-16.23.50:229][353]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Trailer] ([1] browsable assets)...
+[2019.01.27-16.23.50:229][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/Trailer]
+[2019.01.27-16.23.50:229][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Trailer" FILE="../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Trailer_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.01.27-16.23.50:316][353]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Trailer_Auto5B8CEB9CB40816B764036E9920232F9B7.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Trailer_Auto5.uasset'
+[2019.01.27-16.23.50:318][353]LogFileHelpers: Auto-saving content packages took 0.089
+[2019.01.27-16.24.00:483][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.27.20:521][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-16.28.02:144][120]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScroller27EFE576B4146F4900D296EB01A98D9F7.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Maps/SideScroller2.umap'
+[2019.01.27-16.28.02:740][120]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScroller2_BuiltData3BD2ABD647843AB850D9C688A049B979.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Maps/SideScroller2_BuiltData.uasset'
