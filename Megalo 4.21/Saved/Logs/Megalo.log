@@ -3232,3 +3232,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.27-11.52.12:500][132]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerExampleMapE547AD2A468FC081DF8AFB872D2A82C5.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
 [2019.01.27-11.52.12:571][132]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 3.808
 [2019.01.27-11.52.52:877][452]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-13.34.06:777][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-13.34.10:836][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-13.34.35:497][289]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.27-13.34.35:536][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-13.34.36:590][289]LogAIModule: Creating AISystem for world SideScroller2
+[2019.01.27-13.34.41:070][289]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScroller2AA1480484F2413656CF0FD9FF1E3548B.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Maps/SideScroller2.umap'
+[2019.01.27-13.34.41:124][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SideScroller2_BuiltData" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Maps/SideScroller2_BuiltData.uasset" SILENT=true
+[2019.01.27-13.34.42:112][289]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScroller2_BuiltDataE62843504C2FD791D8C843983E60E7EF.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Maps/SideScroller2_BuiltData.uasset'
+[2019.01.27-13.34.42:141][289]LogFileHelpers: Saving map 'SideScroller2' took 6.635
+[2019.01.27-13.34.42:143][289]Cmd: MAP LOAD FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Maps/SideScroller2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-13.34.42:147][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-13.34.42:156][289]LightingResults: New page: Lighting Build
+[2019.01.27-13.34.42:157][289]LoadErrors: New page: Loading map: SideScroller2.umap
+[2019.01.27-13.34.42:173][289]MapCheck: New page: Map Check
+[2019.01.27-13.34.42:173][289]LightingResults: New page: Lighting Build
+[2019.01.27-13.34.42:471][289]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-13.34.42:590][289]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-13.34.42:590][289]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.524ms to complete.
+[2019.01.27-13.34.42:590][289]LogFileHelpers: Loading map 'SideScroller2' took 0.449
+[2019.01.27-13.35.20:093][504]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (37.425 sec). This should never happen. Something is wrong with the timer delegate!
