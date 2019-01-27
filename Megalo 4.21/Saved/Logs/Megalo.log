@@ -1131,3 +1131,132 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.27-12.58.15:667][402]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Snowm\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
 [2019.01.27-13.07.52:597][318]LogSlate: Window 'Project Settings' being destroyed
 [2019.01.27-13.07.52:608][318]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.27-13.23.51:585][685]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-13.23.51:585][685]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-13.23.51:585][685]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-13.23.51:585][685]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-13.24.16:187][ 91]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (24.602 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-13.31.10:291][702]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Clock.Clock
+[2019.01.27-13.31.20:467][853]LogSlate: Window 'Clock' being destroyed
+[2019.01.27-13.31.20:486][853]LogSlate: Window 'Clock' being destroyed
+[2019.01.27-13.32.43:857][533]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Title_Screen.Title_Screen
+[2019.01.27-13.32.50:882][723]LogSlate: Window 'Title_Screen' being destroyed
+[2019.01.27-13.32.50:892][723]LogSlate: Window 'Title_Screen' being destroyed
+[2019.01.27-13.38.58:068][825]Cmd: TRANSACTION UNDO
+[2019.01.27-13.38.58:068][825]LogEditorTransaction: Undo Create Folder
+[2019.01.27-13.39.26:115][879]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerExampleMap_Auto22FF7B85D4B7A997DFFBEC0A345580C73.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto2.umap'
+[2019.01.27-13.39.26:119][879]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.346
+[2019.01.27-13.39.26:119][879]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.346
+[2019.01.27-13.46.02:809][136]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.27-13.46.02:905][137]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Megalo
+[2019.01.27-13.46.02:905][137]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.27-13.46.02:905][137]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.01.27-13.46.02:905][137]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.27-13.46.02:905][137]LogTemp: BranchPath = DESKTOP-3QPJQ6S/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-3QPJQ6S/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.01.27-13.46.02:934][138]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Snowm\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.27-13.47.55:716][807]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-13.47.55:753][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-13.47.55:753][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-13.47.55:753][807]PIE: New page: PIE session: SideScrollerExampleMap (Jan 27, 2019, 3:47:55 AM)
+[2019.01.27-13.47.55:754][807]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.27-13.47.55:792][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038136s)
+[2019.01.27-13.47.55:793][807]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-13.47.55:793][807]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2019.01.27-13.47.55:793][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.039783s)
+[2019.01.27-13.47.55:839][807]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-13.47.55:921][807]LogInit: FAudioDevice initialized.
+[2019.01.27-13.47.55:960][807]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.27-13.47.55:965][807]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2019.01.27-08.47.55
+[2019.01.27-13.47.55:965][807]LogWorld: Bringing up level for play took: 0.003949
+[2019.01.27-13.47.55:981][807]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.32
+[2019.01.27-13.47.55:981][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-13.47.59:677][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-13.48.02:688][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-13.48.02:690][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-13.48.02:747][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-13.48.02:747][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-13.48.02:790][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-13.48.02:812][  8]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.01.27-13.48.14:699][369]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-13.48.14:700][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-13.48.14:700][369]PIE: New page: PIE session: SideScrollerExampleMap (Jan 27, 2019, 3:48:14 AM)
+[2019.01.27-13.48.14:700][369]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.27-13.48.14:727][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027174s)
+[2019.01.27-13.48.14:728][369]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-13.48.14:729][369]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2019.01.27-13.48.14:729][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.028915s)
+[2019.01.27-13.48.14:779][369]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-13.48.14:867][369]LogInit: FAudioDevice initialized.
+[2019.01.27-13.48.14:906][369]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.27-13.48.14:909][369]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2019.01.27-08.48.14
+[2019.01.27-13.48.14:909][369]LogWorld: Bringing up level for play took: 0.002750
+[2019.01.27-13.48.14:923][369]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.738
+[2019.01.27-13.48.14:923][369]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-13.48.18:026][465]LogRenderer: Reallocating scene render targets to support 2332x1084 Format 9 NumSamples 1 (Frame:201777).
+[2019.01.27-13.48.18:552][465]LogClient: High resolution screenshot saved as C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Screenshots/Windows/HighresScreenshot00000.png
+[2019.01.27-13.48.19:841][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-13.48.20:083][513]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2019.01.27-13.48.21:035][541]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-13.48.21:035][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-13.48.21:089][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-13.48.21:089][541]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-13.48.21:138][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-13.48.21:159][542]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.01.27-13.48.22:490][583]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-13.48.23:394][607]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-13.49.04:413][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-13.50.47:622][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-13.51.00:512][494]LogMaterial: Display: Missing cached shader map for material MagnetMat, compiling. 
+[2019.01.27-13.51.00:613][494]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.27-13.51.00:613][494]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.27-13.51.00:613][494]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.27-13.51.05:312][640]Cmd: TRANSACTION UNDO
+[2019.01.27-13.51.05:312][640]LogEditorTransaction: Undo Clicking on Actors
+[2019.01.27-13.51.10:605][770]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Assets/StickWithMe-10.StickWithMe-10
+[2019.01.27-13.51.10:700][770]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2019.01.27-13.51.25:607][170]LogSlate: Window 'StickWithMe-10' being destroyed
+[2019.01.27-13.51.25:641][170]LogSlate: Window 'StickWithMe-10' being destroyed
+[2019.01.27-13.51.35:159][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-13.55.09:372][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-13.56.30:638][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-14.32.08:955][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:962][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:973][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.018 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:976][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:976][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:976][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:976][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:976][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:976][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:976][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:976][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:976][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.32.08:977][180]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.022 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.41.40:950][202]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.01.27-14.41.40:957][202]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.41.40:957][202]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.41.40:957][202]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.41.40:957][202]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.41.40:957][202]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.41.40:957][202]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.41.40:957][202]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.41.40:957][202]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.41.40:957][202]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-14.42.10:450][284]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (29.493 sec). This should never happen. Something is wrong with the timer delegate!
