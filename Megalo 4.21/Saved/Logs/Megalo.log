@@ -1487,3 +1487,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.27-05.53.29:373][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.01.27-05.53.37:742][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.01.27-05.53.37:843][422]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.27-05.55.08:087][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.55.56:987][142]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.01.27-05.56.57:207][799]Cmd: EDIT CUT
+[2019.01.27-05.56.57:227][799]LogEditorActor: Deleted Actor: SideScrollerCharacter_C
+[2019.01.27-05.56.57:331][799]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2019.01.27-05.57.15:497][687]LogSlate: Window 'Save Content' being destroyed
+[2019.01.27-05.57.25:428][794]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/frameFBFFF1B5473DFECAE757B5AEFDF8509D.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/SideScrollerBP/Animations/frame.uasset'
+[2019.01.27-05.57.36:759][ 26]LogSlate: Window 'Failed Renames' being destroyed
+[2019.01.27-05.57.53:309][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/frame" FILE="//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/frame.uasset" SILENT=true
+[2019.01.27-05.57.53:348][944]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/frame427C293E4B6EFB5554189AA8C09EE23C.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/frame.uasset'
+[2019.01.27-05.57.55:698][133]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2019.01.27-05.58.02:341][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Idle" FILE="//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/Idle.uasset" SILENT=true
+[2019.01.27-05.58.02:381][686]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/IdleB78A90494ABE912C6355E085CC0BA110.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/Idle.uasset'
+[2019.01.27-05.58.27:051][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/frame" FILE="//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/frame.uasset" SILENT=true
+[2019.01.27-05.58.27:095][416]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/frameED6C943F4AF6B5A7BE0B91B3B4E418A6.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/frame.uasset'
+[2019.01.27-05.58.31:359][802]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/SideScrollerBP/Animations/Fall/frame.frame
+[2019.01.27-05.58.45:636][ 59]Cmd: TRANSACTION UNDO
+[2019.01.27-05.58.45:636][ 59]LogEditorTransaction: Undo Delete Keyframe
+[2019.01.27-05.58.46:432][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.58.49:748][404]Cmd: TRANSACTION UNDO
+[2019.01.27-05.58.49:748][404]LogEditorTransaction: Undo Delete Keyframe
+[2019.01.27-05.58.56:565][977]Cmd: TRANSACTION UNDO
+[2019.01.27-05.58.56:565][977]LogEditorTransaction: Undo Delete Keyframe
+[2019.01.27-05.59.00:382][306]Cmd: TRANSACTION UNDO
+[2019.01.27-05.59.00:383][306]LogEditorTransaction: Undo Delete Keyframe
+[2019.01.27-05.59.14:589][605]LogSlate: Window 'frame*' being destroyed
+[2019.01.27-05.59.14:595][605]LogSlate: Window 'frame*' being destroyed
+[2019.01.27-05.59.22:889][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Run" FILE="//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/Run.uasset" SILENT=true
+[2019.01.27-05.59.22:928][494]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/RunBB89BAA94B311B64E978EBADA0269817.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/Run.uasset'
+[2019.01.27-05.59.57:099][285]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerExampleMap_Auto1D60DBC1647AE0819BBE15EBF22B75377.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2019.01.27-05.59.57:131][285]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 1.691
+[2019.01.27-05.59.57:131][285]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.691
+[2019.01.27-05.59.57:135][285]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2019.01.27-05.59.57:135][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-05.59.57:232][285]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-06.02.04:316][930]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2019.01.27-06.02.25:339][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/frame" FILE="//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/frame.uasset" SILENT=true
+[2019.01.27-06.02.25:370][886]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/frameB03AF6714AFEC42CC32758A961E54D63.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/frame.uasset'
+[2019.01.27-06.02.30:746][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Land" FILE="//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/Land.uasset" SILENT=true
+[2019.01.27-06.02.30:779][392]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Saved/Land4F47290548C395A105DCF28068A48D3D.tmp' to '//sav-stufile.ad.scad.edu/stuhome/HOM3/Home-is-wher-hom3-is/Megalo 4.21/Content/Land.uasset'
+[2019.01.27-06.07.43:409][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
