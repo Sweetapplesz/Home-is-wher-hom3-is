@@ -1347,3 +1347,143 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.27-04.25.37:906][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
 [2019.01.27-04.25.37:998][484]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
 [2019.01.27-04.29.32:434][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.32.53:125][939]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-04.32.53:149][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-04.32.53:149][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-04.32.53:150][939]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 6:32:53 PM)
+[2019.01.27-04.32.53:150][939]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.27-04.32.53:180][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029933s)
+[2019.01.27-04.32.53:181][939]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-04.32.53:181][939]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2019.01.27-04.32.53:181][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.031290s)
+[2019.01.27-04.32.53:275][939]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-04.32.53:303][939]LogInit: FAudioDevice initialized.
+[2019.01.27-04.32.53:338][939]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.27-04.32.53:342][939]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-23.32.53
+[2019.01.27-04.32.53:342][939]LogWorld: Bringing up level for play took: 0.003771
+[2019.01.27-04.32.53:357][939]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.693
+[2019.01.27-04.32.53:358][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-04.32.59:955][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-04.32.59:955][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-04.32.59:999][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-04.32.59:999][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-04.33.00:075][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-04.33.00:109][726]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.01.27-04.33.08:251][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.33.08:325][692]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-04.33.08:350][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-04.33.08:350][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-04.33.08:350][692]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 6:33:08 PM)
+[2019.01.27-04.33.08:350][692]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.27-04.33.08:376][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025756s)
+[2019.01.27-04.33.08:377][692]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-04.33.08:377][692]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2019.01.27-04.33.08:377][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.026921s)
+[2019.01.27-04.33.08:468][692]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-04.33.08:495][692]LogInit: FAudioDevice initialized.
+[2019.01.27-04.33.08:588][692]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.27-04.33.08:592][692]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-23.33.08
+[2019.01.27-04.33.08:593][692]LogWorld: Bringing up level for play took: 0.003407
+[2019.01.27-04.33.08:607][692]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.057
+[2019.01.27-04.33.08:607][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-04.33.15:116][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-04.33.15:116][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-04.33.15:156][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-04.33.15:156][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-04.33.15:231][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-04.33.15:262][470]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.01.27-04.33.15:926][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-04.33.16:286][590]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-04.33.16:311][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-04.33.16:311][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-04.33.16:311][590]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 6:33:16 PM)
+[2019.01.27-04.33.16:312][590]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.27-04.33.16:335][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023383s)
+[2019.01.27-04.33.16:336][590]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-04.33.16:336][590]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2019.01.27-04.33.16:336][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024465s)
+[2019.01.27-04.33.16:423][590]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-04.33.16:448][590]LogInit: FAudioDevice initialized.
+[2019.01.27-04.33.16:504][590]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.27-04.33.16:507][590]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.26-23.33.16
+[2019.01.27-04.33.16:508][590]LogWorld: Bringing up level for play took: 0.003233
+[2019.01.27-04.33.16:522][590]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.142
+[2019.01.27-04.33.16:522][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-04.33.42:114][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-04.33.51:390][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-04.33.51:390][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-04.33.51:428][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-04.33.51:428][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-04.33.51:503][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-04.33.51:529][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.01.27-04.36.26:722][581]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.077
+[2019.01.27-04.36.26:724][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2019.01.27-04.36.26:724][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-04.36.26:822][581]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-04.42.58:275][551]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{b8417364-e46b-41e4-91e9-fa264d40489b} was removed. Shutting down audio device.
+[2019.01.27-04.42.58:275][551]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-04.46.27:182][173]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.073
+[2019.01.27-04.46.27:185][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2019.01.27-04.46.27:185][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-04.46.27:282][173]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-04.56.27:656][963]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.079
+[2019.01.27-04.56.27:658][963]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2019.01.27-04.56.27:658][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-04.56.27:753][963]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-05.06.28:167][753]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.070
+[2019.01.27-05.06.28:169][753]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2019.01.27-05.06.28:170][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-05.06.28:350][753]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-05.12.13:385][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.16.28:835][792]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.072
+[2019.01.27-05.16.28:837][792]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2019.01.27-05.16.28:837][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-05.16.28:938][792]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-05.26.29:509][581]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.074
+[2019.01.27-05.26.29:512][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2019.01.27-05.26.29:512][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-05.26.29:612][581]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-05.36.00:540][184]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/clockBody.clockBody
+[2019.01.27-05.36.05:005][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.36.05:107][507]LogSlate: Window 'clockBody' being destroyed
+[2019.01.27-05.36.35:979][402]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.087
+[2019.01.27-05.36.35:982][402]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2019.01.27-05.36.35:982][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-05.36.36:074][402]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-05.38.44:316][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.39.07:450][925]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2019.01.27-05.40.28:679][905]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.01.27-05.40.59:374][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.41.23:695][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.45.50:225][907]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jlittl29\Desktop\frame1.png)
+[2019.01.27-05.45.50:445][907]LogTexture: Display: Building textures: frame1 (AutoDXT, 2048X4096)
+[2019.01.27-05.45.51:057][907]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jlittl29\Desktop\frame2.png)
+[2019.01.27-05.45.51:263][907]LogTexture: Display: Building textures: frame2 (AutoDXT, 2048X4096)
+[2019.01.27-05.46.06:420][453]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/SideScrollerBP/Animations/Fall/frame.frame
+[2019.01.27-05.46.30:118][594]LogSlate: Window 'frame*' being destroyed
+[2019.01.27-05.46.30:124][594]LogSlate: Window 'frame*' being destroyed
+[2019.01.27-05.46.55:467][542]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.075
+[2019.01.27-05.46.55:470][542]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2019.01.27-05.46.55:470][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-05.46.55:566][542]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-05.48.52:243][646]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/SideScrollerBP/Animations/Fall/frame2_Sprite.frame2_Sprite
+[2019.01.27-05.48.55:028][857]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/SideScrollerBP/Animations/Fall/frame.frame
+[2019.01.27-05.51.07:874][146]LogSlate: Window 'frame*' being destroyed
+[2019.01.27-05.51.07:882][146]LogSlate: Window 'frame*' being destroyed
+[2019.01.27-05.51.17:402][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.51.17:551][188]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2019.01.27-05.51.35:868][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.51.55:215][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.52.05:518][326]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-05.52.47:491][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.52.47:615][207]Cmd: MODE GRID=0
+[2019.01.27-05.52.48:372][257]Cmd: MODE GRID=1
+[2019.01.27-05.52.53:668][608]Cmd: MODE GRID=0
+[2019.01.27-05.52.56:637][799]LogEditorTransaction: Undo Modify Component(s)
+[2019.01.27-05.52.58:386][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.53.02:952][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.53.18:590][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-05.53.26:645][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-05.53.29:373][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-05.53.37:742][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.53.37:843][422]BlueprintLog: New page: Compile SideScrollerCharacter
