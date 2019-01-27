@@ -1022,3 +1022,112 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.27-11.18.28:519][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/SideScrollerBP/Blueprints/SideScrollerCharacter]
 [2019.01.27-11.18.28:939][198]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerCharacter_Auto893CA0402411D7999BCB5A585D0538159.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto8.uasset'
 [2019.01.27-11.18.28:941][198]LogFileHelpers: Auto-saving content packages took 0.450
+[2019.01.27-11.30.09:649][691]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.01.27-11.30.12:687][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-11.37.10:956][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-11.37.16:176][899]LogTexture: Display: Building textures: frame3 (AutoDXT, 2048X4096)
+[2019.01.27-11.37.16:177][899]LogTexture: Display: Building textures: frame1 (AutoDXT, 2048X4096)
+[2019.01.27-11.37.16:177][899]LogTexture: Display: Building textures: frame2 (AutoDXT, 2048X4096)
+[2019.01.27-11.37.16:227][899]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Fall.Fall
+[2019.01.27-11.37.16:504][900]LogRenderer: Reallocating scene render targets to support 1952x824 Format 9 NumSamples 1 (Frame:1).
+[2019.01.27-11.37.18:791][949]LogSlate: Window 'Fall' being destroyed
+[2019.01.27-11.37.18:810][949]LogSlate: Window 'Fall' being destroyed
+[2019.01.27-11.43.30:396][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-11.47.32:931][392]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-11.51.54:552][391]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.01.27-11.51.54:886][396]LogEditorViewport: Clicking on Actor (context menu): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.01.27-11.51.54:985][396]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-11.52.04:339][688]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-12.14.52:868][404]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-12.14.52:868][404]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-12.14.52:868][404]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-12.15.16:399][474]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (23.530 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-12.20.51:577][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-12.21.07:333][132]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Pause_Menu.Pause_Menu
+[2019.01.27-12.22.36:198][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-12.22.36:311][636]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-12.22.36:363][636]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-12.22.36:364][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-12.22.36:364][636]PIE: New page: PIE session: SideScrollerExampleMap (Jan 27, 2019, 2:22:36 AM)
+[2019.01.27-12.22.36:364][636]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.27-12.22.36:406][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041412s)
+[2019.01.27-12.22.36:407][636]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-12.22.36:408][636]LogPlayLevel: PIE: World Init took: (0.001857s)
+[2019.01.27-12.22.36:408][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.043570s)
+[2019.01.27-12.22.36:479][636]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-12.22.36:594][636]LogInit: FAudioDevice initialized.
+[2019.01.27-12.22.36:632][636]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.27-12.22.36:636][636]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2019.01.27-07.22.36
+[2019.01.27-12.22.36:636][636]LogWorld: Bringing up level for play took: 0.003390
+[2019.01.27-12.22.36:651][636]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.991
+[2019.01.27-12.22.36:651][636]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-12.22.40:307][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-12.22.52:063][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-12.22.54:109][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-12.22.54:110][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-12.22.54:180][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-12.22.54:180][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-12.22.54:226][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-12.22.54:262][286]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.01.27-12.23.26:100][223]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-12.25.05:828][309]LogSlate: Window 'Pause_Menu*' being destroyed
+[2019.01.27-12.25.05:845][309]LogSlate: Window 'Pause_Menu*' being destroyed
+[2019.01.27-12.25.06:035][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-12.25.10:879][447]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.068
+[2019.01.27-12.25.10:881][447]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Pause_Menu] ([1] browsable assets)...
+[2019.01.27-12.25.10:881][447]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pause_Menu]
+[2019.01.27-12.25.10:928][447]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Pause_Menu_Auto96390685148DDE3980924C1B8F42B3BE4.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Pause_Menu_Auto9.uasset'
+[2019.01.27-12.25.10:930][447]LogFileHelpers: Auto-saving content packages took 0.050
+[2019.01.27-12.26.37:342][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-12.26.40:067][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-12.26.43:031][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-12.26.44:704][981]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.27-12.26.58:800][523]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.01.27-12.27.05:083][743]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.01.27-12.28.22:409][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-12.28.51:381][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-12.28.51:655][521]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2019.01.27-12.35.11:243][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.045
+[2019.01.27-12.35.11:246][ 83]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2019.01.27-12.35.11:246][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-12.35.11:621][ 83]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerCharacter_Auto0D8AB50FA48973F9BE84D93A6B672C007.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto0.uasset'
+[2019.01.27-12.35.11:624][ 83]LogFileHelpers: Auto-saving content packages took 0.379
+[2019.01.27-12.48.09:360][567]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-12.48.09:361][567]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-12.48.09:361][567]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-12.48.16:380][588]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (7.019 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-12.49.39:579][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-12.49.41:334][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-12.49.41:429][869]LogSlate: Window 'SideScrollerCharacter*' being destroyed
+[2019.01.27-12.49.41:447][869]LogSlate: Window 'SideScrollerCharacter*' being destroyed
+[2019.01.27-12.49.43:551][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-12.49.44:811][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-12.49.46:406][963]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.27-12.49.46:518][964]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Megalo
+[2019.01.27-12.49.46:518][964]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.27-12.49.46:518][964]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.01.27-12.49.46:518][964]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.27-12.49.46:518][964]LogTemp: BranchPath = DESKTOP-3QPJQ6S/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-3QPJQ6S/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.01.27-12.49.46:544][965]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Snowm\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.27-12.50.25:089][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.058
+[2019.01.27-12.50.25:091][ 84]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2019.01.27-12.50.25:091][ 84]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-12.50.25:456][ 84]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerCharacter_Auto1AAE959E5406B9A03287FE08D70495C75.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto1.uasset'
+[2019.01.27-12.50.25:458][ 84]LogFileHelpers: Auto-saving content packages took 0.368
+[2019.01.27-12.51.11:474][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-12.51.16:131][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-12.52.04:395][441]LogSlate: Window 'Save Content' being destroyed
+[2019.01.27-12.52.05:542][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-12.56.34:509][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-12.56.49:294][459]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.27-12.56.49:322][459]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.27-12.57.45:626][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-12.58.15:313][400]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.27-12.58.15:539][401]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Megalo
+[2019.01.27-12.58.15:539][401]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.27-12.58.15:539][401]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.01.27-12.58.15:539][401]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.27-12.58.15:540][401]LogTemp: BranchPath = DESKTOP-3QPJQ6S/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-3QPJQ6S/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.01.27-12.58.15:667][402]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Snowm\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.27-13.07.52:597][318]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.27-13.07.52:608][318]LogSlate: Window 'Project Settings' being destroyed
