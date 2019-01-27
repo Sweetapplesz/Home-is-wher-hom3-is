@@ -2758,3 +2758,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.27-08.52.32:620][944]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
 [2019.01.27-08.52.32:620][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
 [2019.01.27-08.52.32:747][944]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-09.02.33:144][602]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.084
+[2019.01.27-09.02.33:151][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2019.01.27-09.02.33:151][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-09.02.33:225][602]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-09.12.33:874][390]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.079
+[2019.01.27-09.12.33:877][390]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2019.01.27-09.12.33:877][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-09.12.33:951][390]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-09.22.34:551][177]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.077
+[2019.01.27-09.22.34:554][177]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2019.01.27-09.22.34:554][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-09.22.34:630][177]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-09.32.35:002][964]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.080
+[2019.01.27-09.32.35:005][964]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2019.01.27-09.32.35:005][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2019.01.27-09.32.35:082][964]LogSavePackage: Error: Unexpected custom version "Dev-Editor" found when saving /Game/SideScrollerBP/Blueprints/SideScrollerCharacter. This usually happens when export tagging and final serialization paths differ. Package will not be saved.
+[2019.01.27-09.34.07:599][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
