@@ -3286,3 +3286,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.27-13.37.11:745][348]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.01.27-13.37.11:746][348]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.508ms to complete.
 [2019.01.27-13.37.11:746][348]LogFileHelpers: Loading map 'SideScroller2' took 0.236
+[2019.01.27-13.38.35:503][333]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/SideScroller2.SideScroller2
+[2019.01.27-13.38.35:575][333]Cmd: MAP LOAD FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Maps/SideScroller2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-13.38.35:575][333]LightingResults: New page: Lighting Build
+[2019.01.27-13.38.35:576][333]LoadErrors: New page: Loading map: SideScroller2.umap
+[2019.01.27-13.38.35:579][333]MapCheck: New page: Map Check
+[2019.01.27-13.38.35:579][333]LightingResults: New page: Lighting Build
+[2019.01.27-13.38.35:994][333]LogAIModule: Creating AISystem for world SideScroller2
+[2019.01.27-13.38.36:020][333]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-13.38.36:134][333]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-13.38.36:135][333]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.747ms to complete.
+[2019.01.27-13.38.36:138][333]LogFileHelpers: Loading map 'SideScroller2' took 0.565
+[2019.01.27-13.38.39:076][616]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-13.38.44:727][616]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.27-13.38.47:371][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
