@@ -3252,3 +3252,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.27-13.34.42:590][289]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.524ms to complete.
 [2019.01.27-13.34.42:590][289]LogFileHelpers: Loading map 'SideScroller2' took 0.449
 [2019.01.27-13.35.20:093][504]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (37.425 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-13.36.50:607][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-13.37.03:412][736]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/SideScroller2.SideScroller2
+[2019.01.27-13.37.03:477][736]Cmd: MAP LOAD FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Maps/SideScroller2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-13.37.03:477][736]LightingResults: New page: Lighting Build
+[2019.01.27-13.37.03:478][736]LoadErrors: New page: Loading map: SideScroller2.umap
+[2019.01.27-13.37.03:481][736]MapCheck: New page: Map Check
+[2019.01.27-13.37.03:481][736]LightingResults: New page: Lighting Build
+[2019.01.27-13.37.03:878][736]LogAIModule: Creating AISystem for world SideScroller2
+[2019.01.27-13.37.03:903][736]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-13.37.04:325][736]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-13.37.04:325][736]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.494ms to complete.
+[2019.01.27-13.37.04:328][736]LogFileHelpers: Loading map 'SideScroller2' took 0.852
+[2019.01.27-13.37.09:097][196]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-13.37.09:125][196]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2019.01.27-13.37.09:194][196]Cmd: MAP LOAD FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-13.37.09:194][196]LightingResults: New page: Lighting Build
+[2019.01.27-13.37.09:195][196]LoadErrors: New page: Loading map: SideScrollerExampleMap.umap
+[2019.01.27-13.37.09:199][196]MapCheck: New page: Map Check
+[2019.01.27-13.37.09:199][196]LightingResults: New page: Lighting Build
+[2019.01.27-13.37.09:305][196]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-13.37.09:444][196]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-13.37.09:445][196]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.562ms to complete.
+[2019.01.27-13.37.09:445][196]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.252
+[2019.01.27-13.37.11:416][348]LogAIModule: Creating AISystem for world SideScroller2
+[2019.01.27-13.37.11:444][348]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/SideScroller2.SideScroller2
+[2019.01.27-13.37.11:511][348]Cmd: MAP LOAD FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Maps/SideScroller2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-13.37.11:511][348]LightingResults: New page: Lighting Build
+[2019.01.27-13.37.11:512][348]LoadErrors: New page: Loading map: SideScroller2.umap
+[2019.01.27-13.37.11:515][348]MapCheck: New page: Map Check
+[2019.01.27-13.37.11:515][348]LightingResults: New page: Lighting Build
+[2019.01.27-13.37.11:613][348]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-13.37.11:745][348]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-13.37.11:746][348]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.508ms to complete.
+[2019.01.27-13.37.11:746][348]LogFileHelpers: Loading map 'SideScroller2' took 0.236
