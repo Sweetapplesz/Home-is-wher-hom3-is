@@ -1,4 +1,4 @@
-﻿Log file open, 01/26/19 17:07:24
+﻿Log file open, 01/27/19 00:16:07
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogInit: Display: Running engine for game: Megalo
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.346432
+LogStats: Stats thread started at 0.347248
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -95,7 +95,7 @@ LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.151s to configure plugins.
+LogStreaming: Display: Took  0.258s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -150,565 +150,468 @@ LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
 LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
-LogStreaming: Display: Took  0.004s to delete old logs.
+LogStreaming: Display: Took  0.010s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.26-22.07.24:585][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2019.01.26-22.07.24:585][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2019.01.26-22.07.24:586][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.26-22.07.24:586][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.26-22.07.24:589][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:589][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.01.26-22.07.24:589][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.01.26-22.07.24:589][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:589][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.01.26-22.07.24:589][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:589][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.01.26-22.07.24:589][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.01.26-22.07.24:589][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.01.26-22.07.24:589][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.01.26-22.07.24:589][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.01.26-22.07.24:589][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.01.26-22.07.24:590][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.01.26-22.07.24:590][  0]LogInit: Selected Device Profile: [Windows]
-[2019.01.26-22.07.24:590][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.01.26-22.07.24:600][  0]LogHAL: Display: Platform has ~ 16 GB [16949690368 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2019.01.26-22.07.24:600][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
-[2019.01.26-22.07.24:600][  0]LogInit: Going up to parent DeviceProfile []
-[2019.01.26-22.07.24:600][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:600][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
-[2019.01.26-22.07.24:600][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
-[2019.01.26-22.07.24:600][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:600][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
-[2019.01.26-22.07.24:600][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:600][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
-[2019.01.26-22.07.24:600][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
-[2019.01.26-22.07.24:600][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
-[2019.01.26-22.07.24:600][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
-[2019.01.26-22.07.24:600][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
-[2019.01.26-22.07.24:600][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
-[2019.01.26-22.07.24:601][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
-[2019.01.26-22.07.24:602][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
-[2019.01.26-22.07.24:603][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2019.01.26-22.07.24:603][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2019.01.26-22.07.24:603][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
-[2019.01.26-22.07.24:603][  0]LogInit: Computer: DESKTOP-3QPJQ6S
-[2019.01.26-22.07.24:603][  0]LogInit: User: Snowm
-[2019.01.26-22.07.24:604][  0]LogInit: CPU Page size=4096, Cores=4
-[2019.01.26-22.07.24:604][  0]LogInit: High frequency timer resolution =1.945312 MHz
-[2019.01.26-22.07.24:604][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
-[2019.01.26-22.07.24:604][  0]LogMemory: Platform Memory Stats for Windows
-[2019.01.26-22.07.24:604][  0]LogMemory: Process Physical Memory: 103.26 MB used, 103.26 MB peak
-[2019.01.26-22.07.24:604][  0]LogMemory: Process Virtual Memory: 89.79 MB used, 89.79 MB peak
-[2019.01.26-22.07.24:604][  0]LogMemory: Physical Memory: 7656.25 MB used,  8508.23 MB free, 16164.48 MB total
-[2019.01.26-22.07.24:604][  0]LogMemory: Virtual Memory: 4646.57 MB used,  134213080.00 MB free, 134217728.00 MB total
-[2019.01.26-22.07.24:628][  0]LogInit: Using OS detected language (en-US).
-[2019.01.26-22.07.24:629][  0]LogInit: Using OS detected locale (en-US).
-[2019.01.26-22.07.24:630][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2019.01.26-22.07.25:116][  0]LogStreaming: Display: Took  0.487s to InitEngineTextLocalization.
-[2019.01.26-22.07.25:116][  0]LogInit: Setting process to per monitor DPI aware
-[2019.01.26-22.07.25:148][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.01.26-22.07.25:148][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.01.26-22.07.25:446][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.01.26-22.07.25:446][  0]LogD3D11RHI: D3D11 adapters:
-[2019.01.26-22.07.25:549][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
-[2019.01.26-22.07.25:549][  0]LogD3D11RHI:       1983/0/8082 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2019.01.26-22.07.25:562][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
-[2019.01.26-22.07.25:562][  0]LogD3D11RHI:       128/0/8082 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2019.01.26-22.07.25:565][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.01.26-22.07.25:565][  0]LogD3D11RHI:       0/0/8082 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.01.26-22.07.25:565][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.01.26-22.07.25:601][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.01.26-22.07.25:601][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
-[2019.01.26-22.07.25:601][  0]LogWindows: EnumDisplayDevices:
-[2019.01.26-22.07.25:601][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
-[2019.01.26-22.07.25:601][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
-[2019.01.26-22.07.25:601][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
-[2019.01.26-22.07.25:602][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2019.01.26-22.07.25:602][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
-[2019.01.26-22.07.25:602][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2019.01.26-22.07.25:602][  0]LogD3D11RHI:      Driver Date: Unknown
-[2019.01.26-22.07.25:602][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
-[2019.01.26-22.07.25:658][  0]LogD3D11RHI: Async texture creation enabled
-[2019.01.26-22.07.25:677][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2019.01.26-22.07.26:066][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2019.01.26-22.07.26:083][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2019.01.26-22.07.26:100][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2019.01.26-22.07.26:115][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2019.01.26-22.07.26:130][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2019.01.26-22.07.26:146][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2019.01.26-22.07.26:161][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2019.01.26-22.07.26:175][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2019.01.26-22.07.26:183][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:286][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2019.01.26-22.07.26:288][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2019.01.26-22.07.26:359][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2019.01.26-22.07.26:359][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2019.01.26-22.07.26:391][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2019.01.26-22.07.26:391][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2019.01.26-22.07.26:405][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2019.01.26-22.07.26:418][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2019.01.26-22.07.26:432][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2019.01.26-22.07.26:449][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2019.01.26-22.07.26:498][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2019.01.26-22.07.26:498][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2019.01.26-22.07.26:499][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.01.26-22.07.26:563][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Intermediate/Shaders/WorkingDirectory/15724/).
-[2019.01.26-22.07.26:563][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Snowm/AppData/Local/Temp/UnrealShaderWorkingDir/5C7E94FB41CD6C924E12098990E66E83/'.
-[2019.01.26-22.07.26:565][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2019.01.26-22.07.26:566][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2019.01.26-22.07.26:566][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.01.26-22.07.27:185][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.01.26-22.07.27:247][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Snowm/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
-[2019.01.26-22.07.27:247][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Snowm/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
-[2019.01.26-22.07.27:247][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.01.26-22.07.27:247][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.01.26-22.07.27:247][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.01.26-22.07.27:247][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.01.26-22.07.27:263][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.01.26-22.07.27:263][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.01.26-22.07.27:263][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2019.01.26-22.07.27:276][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Snowm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.01.26-22.07.27:276][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2019.01.26-22.07.27:276][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2019.01.26-22.07.27:301][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.01.26-22.07.27:303][  0]LogSlate: Using FreeType 2.6.0
-[2019.01.26-22.07.27:304][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.01.26-22.07.27:407][  0]LogAssetRegistry: FAssetRegistry took 0.0348 seconds to start up
-[2019.01.26-22.07.27:800][  0]LogInit: Selected Device Profile: [Windows]
-[2019.01.26-22.07.27:974][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2019.01.26-22.07.27:978][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2019.01.26-22.07.27:978][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2019.01.26-22.07.27:978][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.01.26-22.07.27:978][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2019.01.26-22.07.27:992][  0]LogNetVersion: Megalo 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3515102598)
-[2019.01.26-22.07.28:581][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.111579 seconds
-[2019.01.26-22.07.28:588][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
-[2019.01.26-22.07.28:588][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
-[2019.01.26-22.07.28:588][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.01.26-22.07.29:613][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.01.26-22.07.29:626][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2019.01.26-22.07.30:409][  0]SourceControl: Source control is disabled
-[2019.01.26-22.07.30:409][  0]SourceControl: Source control is disabled
-[2019.01.26-22.07.30:411][  0]SourceControl: Source control is disabled
-[2019.01.26-22.07.30:412][  0]SourceControl: Source control is disabled
-[2019.01.26-22.07.30:589][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.01.26-22.07.30:643][  0]LogHoudiniEngine: Starting the Houdini Engine module.
-[2019.01.26-22.07.30:643][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 17.0.416/bin
-[2019.01.26-22.07.30:644][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2019.01.26-22.07.30:646][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2019.01.26-22.07.30:653][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
-[2019.01.26-22.07.30:758][  0]LogHoudiniEngine: Starting up the Houdini Engine API module failed: Already Initialized
-[2019.01.26-22.07.30:775][  0]LogOcInput: OculusInput pre-init called
-[2019.01.26-22.07.30:914][  0]LogEngine: Initializing Engine...
-[2019.01.26-22.07.30:915][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.01.26-22.07.30:916][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2019.01.26-22.07.30:916][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.01.26-22.07.30:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2019.01.26-22.07.30:917][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.01.26-22.07.31:197][  0]LogInit: Initializing FReadOnlyCVARCache
-[2019.01.26-22.07.31:211][  0]LogAIModule: Creating AISystem for world Untitled
-[2019.01.26-22.07.31:226][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.01.26-22.07.31:321][  0]LogInit: FAudioDevice initialized.
-[2019.01.26-22.07.31:321][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2019.01.26-22.07.31:394][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Snowm/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
-[2019.01.26-22.07.31:408][  0]LogInit: Texture streaming: Enabled
-[2019.01.26-22.07.31:429][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2019.01.26-22.07.31:446][  0]LogInit: Transaction tracking system initialized
-[2019.01.26-22.07.31:472][  0]BlueprintLog: New page: Editor Load
-[2019.01.26-22.07.31:574][  0]LocalizationService: Localization service is disabled
-[2019.01.26-22.07.32:762][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/' took 0.02s
-[2019.01.26-22.07.32:762][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2019.01.26-22.07.32:763][  0]LogCook: Display: Mobile HDR setting 1
-[2019.01.26-22.07.32:763][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2019.01.26-22.07.32:763][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2019.01.26-22.07.32:763][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2019.01.26-22.07.32:763][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2019.01.26-22.07.32:763][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2019.01.26-22.07.32:910][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
-[2019.01.26-22.07.32:912][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
-[2019.01.26-22.07.32:977][  0]SourceControl: Source control is disabled
-[2019.01.26-22.07.32:978][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2019.01.26-22.07.32:979][  0]LightingResults: New page: Lighting Build
-[2019.01.26-22.07.32:983][  0]MapCheck: New page: Map Check
-[2019.01.26-22.07.32:983][  0]LightingResults: New page: Lighting Build
-[2019.01.26-22.07.33:252][  0]LogBlueprint: Warning: Timeline Aiming Track NewTrack_0 in /Engine/Transient.REINST_SideScrollerCharacter_C_7 has an invalid curve.  Please fix!
-[2019.01.26-22.07.33:805][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
-[2019.01.26-22.07.33:836][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2019.01.26-22.07.33:872][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2019.01.26-22.07.33:872][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.239ms to complete.
-[2019.01.26-22.07.33:872][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.895
-[2019.01.26-22.07.33:970][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.26-22.07.33:985][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.26-22.07.34:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.26-22.07.34:014][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.26-22.07.34:025][  0]LogCollectionManager: Loaded 0 collections in 0.002337 seconds
-[2019.01.26-22.07.34:043][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Collections/' took 0.01s
-[2019.01.26-22.07.34:043][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Developers/Snowm/Collections/' took 0.00s
-[2019.01.26-22.07.34:043][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Collections/' took 0.00s
-[2019.01.26-22.07.34:043][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2019.01.26-22.07.34:063][  0]LogContentBrowser: Native class hierarchy populated in 0.0197 seconds. Added 2689 classes and 627 folders.
-[2019.01.26-22.07.34:074][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
-[2019.01.26-22.07.34:077][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:078][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:079][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:080][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:081][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:082][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:083][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:084][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:085][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:085][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:086][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:087][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:088][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:089][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:090][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:091][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:091][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:092][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:093][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:093][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:094][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:095][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:096][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.01.26-22.07.34:174][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2019.01.26-22.07.34:180][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2019.01.26-22.07.34:348][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
-[2019.01.26-22.07.34:349][  0]LogLoad: (Engine Initialization) Total time: 12.83 seconds
-[2019.01.26-22.07.34:349][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2019.01.26-22.07.34:532][  0]LogContentStreaming: Texture pool size now 400 MB
-[2019.01.26-22.07.34:536][  0]LogSlate: Took 0.000568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2019.01.26-22.07.34:545][  0]LogSlate: Took 0.001324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2019.01.26-22.07.34:562][  0]LogSlate: Took 0.001099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2019.01.26-22.07.34:792][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.01.26-22.07.34:856][  1]LogRenderer: Reallocating scene render targets to support 772x356 Format 9 NumSamples 1 (Frame:1).
-[2019.01.26-22.07.35:465][  4]LogAssetRegistry: Asset discovery search completed in 8.0798 seconds
-[2019.01.26-22.07.35:467][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2019.01.26-22.07.35:467][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
-[2019.01.26-22.07.35:805][  5]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.01.26-22.08.31:667][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.26-22.08.32:586][372]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Title_Screen.Title_Screen
-[2019.01.26-22.08.33:438][372]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
-[2019.01.26-22.08.34:528][372]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2019.01.26-22.08.35:731][397]LogSlate: Window 'Title_Screen' being destroyed
-[2019.01.26-22.08.35:781][397]LogSlate: Window 'Title_Screen' being destroyed
-[2019.01.26-22.08.36:941][425]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Pause_Menu.Pause_Menu
-[2019.01.26-22.23.37:821][860]LogSlate: Window 'Tutorials' being destroyed
-[2019.01.26-22.24.05:154][308]LogSlate: Window 'Tutorials' being destroyed
-[2019.01.26-22.24.05:185][308]LogSlate: Window 'Tutorials' being destroyed
-[2019.01.26-22.24.06:240][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
-[2019.01.26-22.24.09:902][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.01.26-22.24.14:902][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.26-22.24.15:083][472]LogSlate: Window 'Tutorials' being destroyed
-[2019.01.26-22.24.17:584][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.26-22.31.38:148][453]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
-[2019.01.26-22.31.38:148][453]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
-[2019.01.26-22.31.38:148][453]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
-[2019.01.26-22.31.38:148][453]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
-[2019.01.26-22.31.38:148][453]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
-[2019.01.26-22.31.38:820][454]LogHttp: Warning: 0000021027B70540: request failed, libcurl error: 28 (Timeout was reached)
-[2019.01.26-22.31.38:820][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 0 (Connection 6 seems to be dead!)
-[2019.01.26-22.31.38:820][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 1 (Closing connection 6)
-[2019.01.26-22.31.38:820][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
-[2019.01.26-22.31.38:820][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 3 (  Trying 54.81.81.192...)
-[2019.01.26-22.31.38:820][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 4 (TCP_NODELAY set)
-[2019.01.26-22.31.38:820][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (54.81.81.192) port 443 (#7))
-[2019.01.26-22.31.38:820][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 6 (ALPN, offering http/1.1)
-[2019.01.26-22.31.38:820][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
-[2019.01.26-22.31.38:821][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 8 (SSL re-using session ID)
-[2019.01.26-22.31.38:821][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 9 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
-[2019.01.26-22.31.38:821][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
-[2019.01.26-22.31.38:821][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
-[2019.01.26-22.31.38:821][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 12 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
-[2019.01.26-22.31.38:821][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 13 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
-[2019.01.26-22.31.38:821][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
-[2019.01.26-22.31.38:821][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 15 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
-[2019.01.26-22.31.38:821][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 16 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
-[2019.01.26-22.31.38:821][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 17 (Operation timed out after 362547 milliseconds with 0 out of 0 bytes received)
-[2019.01.26-22.31.38:821][454]LogHttp: Warning: 0000021027B70540: libcurl info message cache 18 (Closing connection 7)
-[2019.01.26-22.31.38:821][454]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8B9E3565-40DE-BBB8-C27E-DDBAD2604ECA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=2938f7d44d2e832cd679209e78c86766%7C2dcb689e85944acf89f68d859ee4373d%7Ccf057740-bf80-432a-9158-48f3fbb6a4cc&AppEnvironment=datacollector-binary&UploadType=eteventstream
-[2019.01.26-22.33.45:485][478]LogRenderer: Reallocating scene render targets to support 936x436 Format 9 NumSamples 1 (Frame:16160).
-[2019.01.26-23.06.31:479][410]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.01.26-23.06.33:075][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.26-23.06.59:719][631]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.01.26-23.12.58:440][517]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerExampleMap_Auto1A2E9923142D2608AED78D4B16550BDE9.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
-[2019.01.26-23.12.58:454][517]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.523
-[2019.01.26-23.12.58:454][517]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.523
-[2019.01.26-23.13.15:985][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.26-23.17.36:291][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.01.26-23.17.36:987][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.26-23.17.41:640][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.01.26-23.18.13:027][333]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
-[2019.01.26-23.18.14:573][334]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2019.01.26-23.18.51:925][793]LogLinker: Can't find file '/Game/MainMenu'
-[2019.01.26-23.18.51:925][793]LogLinker: Can't find file '/Game/MainMenu'
-[2019.01.26-23.19.19:488][465]BlueprintLog: New page: Compile SideScrollerCharacter
-[2019.01.26-23.19.19:790][465]LogBlueprint: Warning: Timeline Aiming Track NewTrack_0 in /Engine/Transient.REINST_SideScrollerCharacter_C_47 has an invalid curve.  Please fix!
-[2019.01.26-23.19.19:806][465]LogBlueprint: Error: [Compiler SideScrollerCharacter] Spawn node  Create Widget  must have a class specified.
-[2019.01.26-23.19.20:152][465]LogBlueprint: Warning: [Compiler SideScrollerCharacter] [4318.63] Compile of SideScrollerCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 663 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
-[2019.01.26-23.19.26:715][583]BlueprintLog: New page: Compile SideScrollerCharacter
-[2019.01.26-23.19.27:049][583]LogBlueprint: Warning: Timeline Aiming Track NewTrack_0 in /Engine/Transient.REINST_SideScrollerCharacter_C_51 has an invalid curve.  Please fix!
-[2019.01.26-23.19.32:402][712]LogTemp: Repeating last play command: Selected Viewport
-[2019.01.26-23.19.32:513][712]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
-[2019.01.26-23.19.32:513][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2019.01.26-23.19.32:514][712]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 1:19:32 PM)
-[2019.01.26-23.19.32:528][712]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
-[2019.01.26-23.19.32:552][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022984s)
-[2019.01.26-23.19.32:553][712]LogAIModule: Creating AISystem for world SideScrollerExampleMap
-[2019.01.26-23.19.32:554][712]LogPlayLevel: PIE: World Init took: (0.001570s)
-[2019.01.26-23.19.32:554][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.025165s)
-[2019.01.26-23.19.32:611][712]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.01.26-23.19.32:715][712]LogInit: FAudioDevice initialized.
-[2019.01.26-23.19.32:783][712]LogLoad: Game class is 'SideScrollerGameMode_C'
-[2019.01.26-23.19.32:786][712]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2019.01.26-18.19.32
-[2019.01.26-23.19.32:786][712]LogWorld: Bringing up level for play took: 0.002866
-[2019.01.26-23.19.32:811][712]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
-[2019.01.26-23.19.32:812][712]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.792
-[2019.01.26-23.19.32:813][712]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
-[2019.01.26-23.19.33:929][758]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
-[2019.01.26-23.19.33:930][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.26-23.19.33:993][758]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2019.01.26-23.19.33:993][758]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
-[2019.01.26-23.19.34:047][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.26-23.19.34:077][759]LogPlayLevel: Display: Destroying online subsystem :Context_8
-[2019.01.26-23.19.51:417][ 36]LogEditorTransaction: Undo Change Class Pin Value
-[2019.01.26-23.19.52:546][ 49]LogEditorTransaction: Undo Add Node
-[2019.01.26-23.19.53:209][ 50]LogEditorTransaction: Undo Delete current selection
-[2019.01.26-23.19.53:865][ 51]LogEditorTransaction: Undo Paste clipboard contents
-[2019.01.26-23.19.59:907][194]Cmd: TRANSACTION REDO
-[2019.01.26-23.19.59:907][194]LogEditorTransaction: Redo Paste clipboard contents
-[2019.01.26-23.20.02:730][246]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2019.01.26-23.20.07:078][342]BlueprintLog: New page: Compile SideScrollerCharacter
-[2019.01.26-23.20.07:396][342]LogBlueprint: Warning: Timeline Aiming Track NewTrack_0 in /Engine/Transient.REINST_SideScrollerCharacter_C_67 has an invalid curve.  Please fix!
-[2019.01.26-23.20.10:244][406]LogTemp: Repeating last play command: Selected Viewport
-[2019.01.26-23.20.10:358][406]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
-[2019.01.26-23.20.10:358][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2019.01.26-23.20.10:358][406]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 1:20:10 PM)
-[2019.01.26-23.20.10:358][406]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
-[2019.01.26-23.20.10:378][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020121s)
-[2019.01.26-23.20.10:379][406]LogAIModule: Creating AISystem for world SideScrollerExampleMap
-[2019.01.26-23.20.10:379][406]LogPlayLevel: PIE: World Init took: (0.000756s)
-[2019.01.26-23.20.10:379][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.021036s)
-[2019.01.26-23.20.10:434][406]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.01.26-23.20.10:533][406]LogInit: FAudioDevice initialized.
-[2019.01.26-23.20.10:576][406]LogLoad: Game class is 'SideScrollerGameMode_C'
-[2019.01.26-23.20.10:581][406]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2019.01.26-18.20.10
-[2019.01.26-23.20.10:582][406]LogWorld: Bringing up level for play took: 0.005310
-[2019.01.26-23.20.10:597][406]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.576
-[2019.01.26-23.20.10:597][406]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
-[2019.01.26-23.20.16:071][638]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2019.01.26-23.20.17:266][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
-[2019.01.26-23.20.17:266][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.26-23.20.17:326][688]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2019.01.26-23.20.17:326][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
-[2019.01.26-23.20.17:391][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.26-23.20.17:416][689]LogPlayLevel: Display: Destroying online subsystem :Context_9
-[2019.01.26-23.23.07:733][166]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerExampleMap_Auto22261658A436EE0B5EDDD84B9F33712FC.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto2.umap'
-[2019.01.26-23.23.07:739][166]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.443
-[2019.01.26-23.23.07:739][166]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.443
-[2019.01.26-23.23.07:743][166]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
-[2019.01.26-23.23.07:763][166]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
-[2019.01.26-23.23.07:763][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
-[2019.01.26-23.23.08:251][166]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerCharacter_Auto2C38ED1134CCA150553C5F3AB6CFFDDDA.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto2.uasset'
-[2019.01.26-23.23.08:253][166]LogFileHelpers: Auto-saving content packages took 0.512
-[2019.01.26-23.23.49:543][260]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/SideScrollerCharacter4C9777E14AD53679D4B966A62F3493E5.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
-[2019.01.26-23.25.02:686][888]LogRenderer: Reallocating scene render targets to support 936x488 Format 9 NumSamples 1 (Frame:860).
-[2019.01.26-23.25.03:186][898]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap
-[2019.01.26-23.25.36:470][794]BlueprintLog: New page: Compile SideScrollerExampleMap
-[2019.01.26-23.25.41:256][945]LogTemp: Repeating last play command: Selected Viewport
-[2019.01.26-23.25.41:301][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
-[2019.01.26-23.25.41:301][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2019.01.26-23.25.41:301][945]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 1:25:41 PM)
-[2019.01.26-23.25.41:301][945]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
-[2019.01.26-23.25.41:325][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023879s)
-[2019.01.26-23.25.41:326][945]LogAIModule: Creating AISystem for world SideScrollerExampleMap
-[2019.01.26-23.25.41:326][945]LogPlayLevel: PIE: World Init took: (0.000961s)
-[2019.01.26-23.25.41:327][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.025060s)
-[2019.01.26-23.25.41:385][945]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2019.01.26-23.25.41:488][945]LogInit: FAudioDevice initialized.
-[2019.01.26-23.25.41:526][945]LogLoad: Game class is 'SideScrollerGameMode_C'
-[2019.01.26-23.25.41:529][945]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2019.01.26-18.25.41
-[2019.01.26-23.25.41:530][945]LogWorld: Bringing up level for play took: 0.003837
-[2019.01.26-23.25.41:546][945]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.476
-[2019.01.26-23.25.41:546][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
-[2019.01.26-23.25.45:262][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.26-23.25.47:693][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
-[2019.01.26-23.25.47:693][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.26-23.25.47:820][195]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2019.01.26-23.25.47:821][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
-[2019.01.26-23.25.47:878][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.01.26-23.25.47:922][196]LogPlayLevel: Display: Destroying online subsystem :Context_11
-[2019.01.26-23.27.54:152][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.16.08:060][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.27-05.16.08:060][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.27-05.16.08:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.27-05.16.08:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.27-05.16.08:061][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.27-05.16.08:065][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:065][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.27-05.16.08:065][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.27-05.16.08:065][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:065][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.27-05.16.08:065][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:065][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.27-05.16.08:065][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.27-05.16.08:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.27-05.16.08:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.27-05.16.08:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.27-05.16.08:065][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.27-05.16.08:065][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.27-05.16.08:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.27-05.16.08:065][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.27-05.16.08:065][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.27-05.16.08:066][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:067][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.27-05.16.08:067][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.27-05.16.08:067][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.27-05.16.08:067][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.27-05.16.08:080][  0]LogHAL: Display: Platform has ~ 16 GB [16949690368 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.27-05.16.08:080][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.27-05.16.08:080][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.27-05.16.08:080][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:080][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.01.27-05.16.08:081][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.27-05.16.08:082][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2019.01.27-05.16.08:082][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.01.27-05.16.08:082][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.01.27-05.16.08:082][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2019.01.27-05.16.08:082][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2019.01.27-05.16.08:082][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.27-05.16.08:082][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.27-05.16.08:082][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Config/Windows/Engine.ini]
+[2019.01.27-05.16.08:082][  0]LogInit: Computer: DESKTOP-3QPJQ6S
+[2019.01.27-05.16.08:082][  0]LogInit: User: Snowm
+[2019.01.27-05.16.08:082][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.27-05.16.08:082][  0]LogInit: High frequency timer resolution =1.945312 MHz
+[2019.01.27-05.16.08:083][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.01.27-05.16.08:083][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.27-05.16.08:083][  0]LogMemory: Process Physical Memory: 103.18 MB used, 103.18 MB peak
+[2019.01.27-05.16.08:083][  0]LogMemory: Process Virtual Memory: 89.82 MB used, 89.82 MB peak
+[2019.01.27-05.16.08:083][  0]LogMemory: Physical Memory: 8709.13 MB used,  7455.35 MB free, 16164.48 MB total
+[2019.01.27-05.16.08:083][  0]LogMemory: Virtual Memory: 4646.57 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.01.27-05.16.08:117][  0]LogInit: Using OS detected language (en-US).
+[2019.01.27-05.16.08:117][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.27-05.16.08:118][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.27-05.16.08:729][  0]LogStreaming: Display: Took  0.613s to InitEngineTextLocalization.
+[2019.01.27-05.16.08:729][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.27-05.16.08:788][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.27-05.16.08:788][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.27-05.16.09:328][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.27-05.16.09:328][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.27-05.16.09:468][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2019.01.27-05.16.09:468][  0]LogD3D11RHI:       1983/0/8082 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.27-05.16.09:496][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.01.27-05.16.09:496][  0]LogD3D11RHI:       128/0/8082 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.27-05.16.09:499][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.27-05.16.09:499][  0]LogD3D11RHI:       0/0/8082 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.27-05.16.09:499][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.27-05.16.09:539][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.27-05.16.09:539][  0]LogD3D11RHI:     GPU DeviceId: 0x1d10 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.27-05.16.09:539][  0]LogWindows: EnumDisplayDevices:
+[2019.01.27-05.16.09:540][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.01.27-05.16.09:540][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.01.27-05.16.09:540][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.01.27-05.16.09:540][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.01.27-05.16.09:540][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2019.01.27-05.16.09:540][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.01.27-05.16.09:541][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.01.27-05.16.09:541][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2019.01.27-05.16.09:620][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.27-05.16.09:643][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.27-05.16.10:259][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.27-05.16.10:280][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.27-05.16.10:303][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.27-05.16.10:326][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.27-05.16.10:347][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.27-05.16.10:368][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.27-05.16.10:390][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.27-05.16.10:410][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.27-05.16.10:421][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:553][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:554][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.27-05.16.10:556][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.27-05.16.10:632][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.27-05.16.10:632][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.27-05.16.10:670][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.27-05.16.10:670][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.27-05.16.10:692][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.27-05.16.10:709][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.27-05.16.10:730][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.27-05.16.10:757][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.27-05.16.10:857][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.27-05.16.10:857][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.27-05.16.10:857][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.27-05.16.10:972][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Intermediate/Shaders/WorkingDirectory/6260/).
+[2019.01.27-05.16.10:972][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Snowm/AppData/Local/Temp/UnrealShaderWorkingDir/705A25E84AAA6E187300CBB9C0A37D0E/'.
+[2019.01.27-05.16.10:976][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.27-05.16.10:976][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.27-05.16.10:976][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.27-05.16.11:929][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.27-05.16.12:030][  0]LogDerivedDataCache: Loaded boot cache 0.10s 71MB C:/Users/Snowm/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.27-05.16.12:030][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Snowm/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.27-05.16.12:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.27-05.16.12:030][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.27-05.16.12:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.27-05.16.12:030][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.27-05.16.12:052][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.27-05.16.12:052][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.27-05.16.12:052][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.27-05.16.12:069][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Snowm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.27-05.16.12:069][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.27-05.16.12:069][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.27-05.16.12:104][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.27-05.16.12:106][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.27-05.16.12:107][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.27-05.16.12:240][  0]LogAssetRegistry: FAssetRegistry took 0.0433 seconds to start up
+[2019.01.27-05.16.12:812][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.27-05.16.13:111][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.27-05.16.13:123][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.27-05.16.13:123][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.27-05.16.13:123][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.27-05.16.13:123][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.27-05.16.13:151][  0]LogNetVersion: Megalo 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3515102598)
+[2019.01.27-05.16.14:022][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.179304 seconds
+[2019.01.27-05.16.14:038][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.27-05.16.14:038][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.27-05.16.14:038][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.27-05.16.15:447][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.27-05.16.15:464][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.27-05.16.16:586][  0]SourceControl: Source control is disabled
+[2019.01.27-05.16.16:586][  0]SourceControl: Source control is disabled
+[2019.01.27-05.16.16:588][  0]SourceControl: Source control is disabled
+[2019.01.27-05.16.16:589][  0]SourceControl: Source control is disabled
+[2019.01.27-05.16.16:818][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.27-05.16.16:903][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2019.01.27-05.16.16:904][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 17.0.416/bin
+[2019.01.27-05.16.16:905][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.27-05.16.16:908][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.27-05.16.16:921][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.27-05.16.17:134][  0]LogHoudiniEngine: Starting up the Houdini Engine API module failed: Already Initialized
+[2019.01.27-05.16.17:153][  0]LogOcInput: OculusInput pre-init called
+[2019.01.27-05.16.17:334][  0]LogEngine: Initializing Engine...
+[2019.01.27-05.16.17:335][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.27-05.16.17:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.27-05.16.17:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.27-05.16.17:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.27-05.16.17:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.27-05.16.17:761][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.27-05.16.17:781][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.27-05.16.17:898][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-05.16.18:014][  0]LogInit: FAudioDevice initialized.
+[2019.01.27-05.16.18:015][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.27-05.16.18:135][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/Snowm/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.27-05.16.18:147][  0]LogInit: Texture streaming: Enabled
+[2019.01.27-05.16.18:198][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.27-05.16.18:224][  0]LogInit: Transaction tracking system initialized
+[2019.01.27-05.16.18:279][  0]BlueprintLog: New page: Editor Load
+[2019.01.27-05.16.18:439][  0]LocalizationService: Localization service is disabled
+[2019.01.27-05.16.20:221][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/' took 0.02s
+[2019.01.27-05.16.20:221][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.27-05.16.20:222][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.27-05.16.20:222][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.27-05.16.20:222][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.27-05.16.20:222][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.27-05.16.20:223][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.27-05.16.20:223][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.27-05.16.20:428][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2019.01.27-05.16.20:430][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2019.01.27-05.16.20:529][  0]SourceControl: Source control is disabled
+[2019.01.27-05.16.20:530][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.27-05.16.20:530][  0]LightingResults: New page: Lighting Build
+[2019.01.27-05.16.20:536][  0]MapCheck: New page: Map Check
+[2019.01.27-05.16.20:536][  0]LightingResults: New page: Lighting Build
+[2019.01.27-05.16.20:975][  0]LogBlueprint: Warning: Timeline Aiming Track NewTrack_0 in /Engine/Transient.REINST_SideScrollerCharacter_C_8 has an invalid curve.  Please fix!
+[2019.01.27-05.16.21:860][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-05.16.21:889][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.27-05.16.21:935][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.27-05.16.21:936][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.302ms to complete.
+[2019.01.27-05.16.21:936][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 1.406
+[2019.01.27-05.16.22:084][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-05.16.22:099][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-05.16.22:122][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-05.16.22:139][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-05.16.22:153][  0]LogCollectionManager: Loaded 0 collections in 0.002129 seconds
+[2019.01.27-05.16.22:171][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Collections/' took 0.01s
+[2019.01.27-05.16.22:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Developers/Snowm/Collections/' took 0.00s
+[2019.01.27-05.16.22:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Content/Collections/' took 0.00s
+[2019.01.27-05.16.22:172][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.27-05.16.22:189][  0]LogContentBrowser: Native class hierarchy populated in 0.0171 seconds. Added 2689 classes and 627 folders.
+[2019.01.27-05.16.22:201][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.27-05.16.22:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:219][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:220][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:229][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.27-05.16.22:308][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.01.27-05.16.22:314][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.27-05.16.22:497][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.27-05.16.22:497][  0]LogLoad: (Engine Initialization) Total time: 17.57 seconds
+[2019.01.27-05.16.22:498][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.27-05.16.22:517][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.27-05.16.22:616][  0]LogContentStreaming: Texture pool size now 400 MB
+[2019.01.27-05.16.22:618][  0]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.27-05.16.22:621][  0]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.27-05.16.22:638][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.27-05.16.22:837][  0]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.27-05.16.22:946][  1]LogRenderer: Reallocating scene render targets to support 772x356 Format 9 NumSamples 1 (Frame:1).
+[2019.01.27-05.16.23:834][  4]LogAssetRegistry: Asset discovery search completed in 11.6178 seconds
+[2019.01.27-05.16.23:837][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.27-05.16.23:837][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000112 seconds (updated 0 objects)
+[2019.01.27-05.16.23:868][  4]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.27-05.16.35:052][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.16.35:264][321]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Pause_Menu.Pause_Menu
+[2019.01.27-05.16.36:712][321]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0038 seconds. Added 117 classes and 0 folders.
+[2019.01.27-05.16.38:388][321]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.27-05.22.49:512][729]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.01.27-05.22.49:520][729]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-05.22.49:520][729]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-05.22.49:520][729]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-05.23.22:541][868]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (33.021 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-05.26.23:945][925]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.723
+[2019.01.27-05.26.23:961][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Pause_Menu] ([1] browsable assets)...
+[2019.01.27-05.26.23:961][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pause_Menu]
+[2019.01.27-05.26.24:415][925]LogSavePackage: Moving '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Pause_Menu_Auto1DCAB973649E5C01AA267F8A0F534F382.tmp' to '../../../../../../Users/Snowm/Documents/GitHub/Home-is-wher-hom3-is/Megalo 4.21/Saved/Autosaves/Game/Pause_Menu_Auto1.uasset'
+[2019.01.27-05.26.24:460][925]LogFileHelpers: Auto-saving content packages took 0.504
+[2019.01.27-05.52.23:254][191]LogRenderer: Reallocating scene render targets to support 936x436 Format 9 NumSamples 1 (Frame:12681).
+[2019.01.27-05.52.27:142][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.27-05.52.30:478][352]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.27-05.52.30:581][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-05.52.30:581][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.27-05.52.30:582][352]PIE: New page: PIE session: SideScrollerExampleMap (Jan 26, 2019, 7:52:30 PM)
+[2019.01.27-05.52.30:598][352]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.27-05.52.30:672][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072398s)
+[2019.01.27-05.52.30:678][352]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.27-05.52.30:680][352]LogPlayLevel: PIE: World Init took: (0.007494s)
+[2019.01.27-05.52.30:680][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.081880s)
+[2019.01.27-05.52.30:766][352]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.27-05.52.30:918][352]LogInit: FAudioDevice initialized.
+[2019.01.27-05.52.31:000][352]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.27-05.52.31:014][352]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2019.01.27-00.52.31
+[2019.01.27-05.52.31:015][352]LogWorld: Bringing up level for play took: 0.012622
+[2019.01.27-05.52.31:049][352]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2019.01.27-05.52.31:053][352]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 1.032
+[2019.01.27-05.52.31:054][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-05.52.33:673][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-05.52.45:911][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.27-05.52.47:890][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-05.52.47:891][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-05.52.47:956][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.27-05.52.47:956][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.27-05.52.48:016][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.27-05.52.48:059][797]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.01.27-06.19.04:854][174]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-06.19.04:854][174]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-06.19.04:854][174]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-06.19.04:854][174]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-06.19.04:854][174]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-06.19.04:854][174]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-06.19.04:854][174]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-06.19.04:854][174]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-06.19.04:854][174]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-06.19.04:854][174]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-06.19.04:854][174]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-06.19.22:635][227]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (17.780 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-06.22.58:087][415]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.27-06.23.22:624][488]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (24.536 sec). This should never happen. Something is wrong with the timer delegate!
